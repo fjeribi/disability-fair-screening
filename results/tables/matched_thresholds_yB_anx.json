@@ -1,0 +1,62 @@
+[
+  {
+    "method": "items_xgb + single",
+    "thresholds": {
+      "all": 0.4353318512439728
+    },
+    "actual_calibration_AOD_overlapping": 0.0016067399206704561
+  },
+  {
+    "method": "items_xgb + EO",
+    "thresholds": {
+      "cognition": 0.7523859143257141,
+      "communication": 0.40821367502212524,
+      "hearing": 0.6023648977279663,
+      "mobility": 0.7271729707717896,
+      "none": 0.6084908843040466,
+      "selfcare": 0.2171556055545807,
+      "vision": 0.9599981904029846
+    },
+    "actual_calibration_AOD_overlapping": 0.02127122304457693
+  },
+  {
+    "method": "domain_xgb + single",
+    "thresholds": {
+      "all": 0.43628159165382385
+    },
+    "actual_calibration_AOD_overlapping": 0.0016772050978194532
+  },
+  {
+    "method": "domain_xgb + EO",
+    "thresholds": {
+      "cognition": 0.15120342373847961,
+      "communication": 0.08270265907049179,
+      "hearing": 0.6237048506736755,
+      "mobility": 0.032889075577259064,
+      "none": 0.0006572078564204276,
+      "selfcare": 0.18756839632987976,
+      "vision": 0.9607105851173401
+    },
+    "actual_calibration_AOD_overlapping": 0.03047777583363593
+  },
+  {
+    "method": "DAFS-I + single",
+    "thresholds": {
+      "all": 0.7963178728579636
+    },
+    "actual_calibration_AOD_overlapping": 0.0
+  },
+  {
+    "method": "DAFS-I + EO",
+    "thresholds": {
+      "cognition": 0.9313299031444291,
+      "communication": 0.7963178728579636,
+      "hearing": 0.8842550929832662,
+      "mobility": 0.9115603928629591,
+      "none": 0.9143695436045851,
+      "selfcare": 0.9192033183697677,
+      "vision": 0.9999946594332003
+    },
+    "actual_calibration_AOD_overlapping": 0.018422004812163995
+  }
+]

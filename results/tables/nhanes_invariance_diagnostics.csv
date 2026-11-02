@@ -1,0 +1,16 @@
+"scale","domain","step","converged","admissible","standard_errors_available"
+"phq","any","configural",TRUE,TRUE,TRUE
+"phq","any","thresholds",TRUE,TRUE,TRUE
+"phq","any","thr_load",TRUE,TRUE,TRUE
+"phq","any","scalar",TRUE,TRUE,TRUE
+"phq","any","strict",TRUE,TRUE,TRUE
+"phq","mobility","configural",TRUE,TRUE,TRUE
+"phq","mobility","thresholds",TRUE,TRUE,TRUE
+"phq","mobility","thr_load",TRUE,TRUE,TRUE
+"phq","mobility","scalar",TRUE,TRUE,TRUE
+"phq","mobility","strict",TRUE,TRUE,TRUE
+"phq","cognition","configural",TRUE,TRUE,TRUE
+"phq","cognition","thresholds",TRUE,TRUE,TRUE
+"phq","cognition","thr_load",TRUE,TRUE,TRUE
+"phq","cognition","scalar",TRUE,TRUE,TRUE
+"phq","cognition","strict",TRUE,TRUE,TRUE

@@ -1,0 +1,7 @@
+{
+  "B": 500,
+  "type": "Rao-Wu rescaled PSU bootstrap within strata; paired common draws",
+  "scope": "Test-sample uncertainty conditional on fitted models, thresholds, and estimated labels; training/label-estimation uncertainty excluded",
+  "AUC": "point estimates only",
+  "p_values": "not computed"
+}

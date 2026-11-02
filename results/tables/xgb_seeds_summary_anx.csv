@@ -1,0 +1,5 @@
+,AUC,AUC,AUC,AUC,AUC,BAcc,BAcc,BAcc,BAcc,BAcc,EOD,EOD,EOD,EOD,EOD,FPRgap,FPRgap,FPRgap,FPRgap,FPRgap,AOD,AOD,AOD,AOD,AOD
+,mean,std,min,max,median,mean,std,min,max,median,mean,std,min,max,median,mean,std,min,max,median,mean,std,min,max,median
+method,,,,,,,,,,,,,,,,,,,,,,,,,
+Domain-aware XGBoost + EO cut-offs (DAFS),0.8384,0.0002,0.8382,0.8389,0.8384,0.7826,0.0005,0.7818,0.7834,0.7826,0.0737,0.0072,0.0612,0.0829,0.0724,0.1208,0.0166,0.0967,0.1453,0.1184,0.0949,0.0133,0.0746,0.1141,0.0936
+Items-only XGBoost + EO cut-offs (A3),0.838,0.0,0.8379,0.8381,0.838,0.782,0.0007,0.781,0.7836,0.7819,0.0704,0.0116,0.061,0.0898,0.0642,0.0718,0.0036,0.0654,0.0778,0.0716,0.0636,0.0065,0.0512,0.072,0.0661

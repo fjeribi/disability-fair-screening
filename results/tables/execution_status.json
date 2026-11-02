@@ -1,0 +1,57 @@
+[
+  {
+    "step": "02_describe",
+    "returncode": 0,
+    "seconds": 1.998939037322998
+  },
+  {
+    "step": "17_robustness",
+    "returncode": 0,
+    "seconds": 3.1830532550811768
+  },
+  {
+    "step": "21_dafsI_eps",
+    "returncode": 0,
+    "seconds": 6.965742111206055
+  },
+  {
+    "step": "27_sex_attrition_power",
+    "returncode": 0,
+    "seconds": 3.354086399078369
+  },
+  {
+    "step": "32_calibration",
+    "returncode": 0,
+    "seconds": 0.5303313732147217
+  },
+  {
+    "step": "33_frontier_dep",
+    "returncode": 0,
+    "seconds": 78.56585812568665
+  },
+  {
+    "step": "33_frontier_anx",
+    "returncode": 0,
+    "seconds": 113.04395699501038
+  },
+  {
+    "step": "30_paper_tables",
+    "returncode": 0,
+    "seconds": 1.1333847045898438
+  },
+  {
+    "step": "34_frontier_table",
+    "returncode": 0,
+    "seconds": 0.4869844913482666
+  },
+  {
+    "step": "28_flowchart",
+    "returncode": 0,
+    "seconds": 1.187434434890747
+  },
+  {
+    "step": "31_paper_figures",
+    "returncode": 0,
+    "seconds": 2.3791863918304443
+  }
+]

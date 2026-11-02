@@ -1,0 +1,82 @@
+[
+  {
+    "method": "items_xgb + single",
+    "thresholds": {
+      "all": 0.37424996495246887
+    },
+    "actual_calibration_AOD_overlapping": 0.003467584080632728
+  },
+  {
+    "method": "items_xgb + EO",
+    "thresholds": {
+      "cognition": 0.601187527179718,
+      "communication": 0.707950234413147,
+      "hearing": 0.6869190335273743,
+      "mobility": 0.21760551631450653,
+      "none": 0.5511524081230164,
+      "selfcare": 0.7039972543716431,
+      "vision": 0.6229458451271057
+    },
+    "actual_calibration_AOD_overlapping": 0.025328471926414863
+  },
+  {
+    "method": "domain_xgb + single",
+    "thresholds": {
+      "all": 0.37826284766197205
+    },
+    "actual_calibration_AOD_overlapping": 0.00357482709381604
+  },
+  {
+    "method": "domain_xgb + EO",
+    "thresholds": {
+      "cognition": 0.6275776028633118,
+      "communication": 0.707594633102417,
+      "hearing": 0.690346360206604,
+      "mobility": 0.5481165647506714,
+      "none": 0.5546542406082153,
+      "selfcare": 0.7045758366584778,
+      "vision": 0.61383455991745
+    },
+    "actual_calibration_AOD_overlapping": 0.020807691408590623
+  },
+  {
+    "method": "DAFS-I + single",
+    "thresholds": {
+      "all": 0.4609584126566998
+    },
+    "actual_calibration_AOD_overlapping": 0.0
+  },
+  {
+    "method": "DAFS-I + EO",
+    "thresholds": {
+      "cognition": 0.9182475660552621,
+      "communication": 0.9871688713839621,
+      "hearing": 0.0946286810921661,
+      "mobility": 0.886020775935906,
+      "none": 0.9117729524722462,
+      "selfcare": 0.7784549182024423,
+      "vision": 0.06113044137290766
+    },
+    "actual_calibration_AOD_overlapping": 0.026569779000953565
+  },
+  {
+    "method": "integer + single",
+    "thresholds": {
+      "all": 60.0
+    },
+    "actual_calibration_AOD_overlapping": 0.0
+  },
+  {
+    "method": "integer + EO",
+    "thresholds": {
+      "cognition": 60.0,
+      "communication": 60.0,
+      "hearing": 60.0,
+      "mobility": 60.0,
+      "none": 54.0,
+      "selfcare": 60.0,
+      "vision": 60.0
+    },
+    "actual_calibration_AOD_overlapping": 0.006875038381042152
+  }
+]

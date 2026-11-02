@@ -1,0 +1,20 @@
+[
+  {
+    "scale": "dep",
+    "script": "09_proposed.py",
+    "returncode": 0,
+    "seconds": 11.399529695510864
+  },
+  {
+    "scale": "anx",
+    "script": "25_anx_item_dp.py",
+    "returncode": 0,
+    "seconds": 7.728951692581177
+  },
+  {
+    "scale": "anx",
+    "script": "09_proposed.py",
+    "returncode": 0,
+    "seconds": 11.124956607818604
+  }
+]

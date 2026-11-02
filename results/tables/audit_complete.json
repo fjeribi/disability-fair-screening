@@ -1,0 +1,5 @@
+{
+  "B": 200,
+  "bootstrap": "Rao-Wu PSU rescaling within strata; full-data LCA refits per draw",
+  "label_uncertainty_in_ML_test_intervals": "not included"
+}

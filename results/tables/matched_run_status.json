@@ -1,0 +1,42 @@
+[
+  {
+    "step": "dep_yA_08_baselines",
+    "returncode": 0,
+    "seconds": 815.8708236217499
+  },
+  {
+    "step": "dep_yA_matched_proposed",
+    "returncode": 0,
+    "seconds": 27.757967710494995
+  },
+  {
+    "step": "dep_yB_08_baselines",
+    "returncode": 0,
+    "seconds": 736.9741740226746
+  },
+  {
+    "step": "dep_yB_matched_proposed",
+    "returncode": 0,
+    "seconds": 45.46896052360535
+  },
+  {
+    "step": "anx_yA_08_baselines",
+    "returncode": 0,
+    "seconds": 1460.3667328357697
+  },
+  {
+    "step": "anx_yA_matched_proposed",
+    "returncode": 0,
+    "seconds": 70.34357047080994
+  },
+  {
+    "step": "anx_yB_08_baselines",
+    "returncode": 0,
+    "seconds": 71.61482501029968
+  },
+  {
+    "step": "anx_yB_matched_proposed",
+    "returncode": 0,
+    "seconds": 5.922637462615967
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "survey": "NHIS",
+    "scale": "dep",
+    "group": "No disability",
+    "probabilities": [
+      [
+        0.011186192921737188,
+        0.012038513650547308,
+        0.00653061073211288,
+        0.0298467476991543,
+        0.04327555288822305
+      ],
+      [
+        0.2886590935742525,
+        0.3722255515546373,
+        0.5993512964615062,
+        0.8670464026818963,
+        0.4561570298712356
+      ]
+    ],
+    "mean_loglik": -1.167054658283567,
+    "converged": true,
+    "iterations": 29,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -1.1670546586789727,
+        "converged": true,
+        "iterations": 29
+      },
+      {
+        "mean_loglik": -1.1670546584846815,
+        "converged": true,
+        "iterations": 29
+      },
+      {
+        "mean_loglik": -1.167054658283567,
+        "converged": true,
+        "iterations": 29
+      },
+      {
+        "mean_loglik": -1.167054658642271,
+        "converged": true,
+        "iterations": 25
+      },
+      {
+        "mean_loglik": -1.1670546583463595,
+        "converged": true,
+        "iterations": 38
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "dep",
+    "group": "Any disability",
+    "probabilities": [
+      [
+        0.08981371959716608,
+        0.04135601405670427,
+        0.033295302284661474,
+        0.08902055243189916,
+        0.05559210708557843
+      ],
+      [
+        0.607565109442618,
+        0.568347483938771,
+        0.6760422032948401,
+        0.9251277226855475,
+        0.44232337580726616
+      ]
+    ],
+    "mean_loglik": -2.4100637689612627,
+    "converged": true,
+    "iterations": 42,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.4100637690193145,
+        "converged": true,
+        "iterations": 40
+      },
+      {
+        "mean_loglik": -2.410063768970718,
+        "converged": true,
+        "iterations": 37
+      },
+      {
+        "mean_loglik": -2.4100637690038886,
+        "converged": true,
+        "iterations": 44
+      },
+      {
+        "mean_loglik": -2.4100637695618876,
+        "converged": true,
+        "iterations": 40
+      },
+      {
+        "mean_loglik": -2.4100637689612627,
+        "converged": true,
+        "iterations": 42
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "dep",
+    "group": "vision",
+    "probabilities": [
+      [
+        0.07956093149377895,
+        0.040863401802429714,
+        0.03146724872810151,
+        0.07523056041901952,
+        0.080355104158213
+      ],
+      [
+        0.5879249383729591,
+        0.535408374549766,
+        0.6396181272272617,
+        0.9254055603574031,
+        0.3725006001181623
+      ]
+    ],
+    "mean_loglik": -2.4281042892906646,
+    "converged": true,
+    "iterations": 56,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.4281042896369582,
+        "converged": true,
+        "iterations": 55
+      },
+      {
+        "mean_loglik": -2.4281042896143985,
+        "converged": true,
+        "iterations": 48
+      },
+      {
+        "mean_loglik": -2.428104289477077,
+        "converged": true,
+        "iterations": 60
+      },
+      {
+        "mean_loglik": -2.4281042892906646,
+        "converged": true,
+        "iterations": 56
+      },
+      {
+        "mean_loglik": -2.42810428958103,
+        "converged": true,
+        "iterations": 51
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "dep",
+    "group": "hearing",
+    "probabilities": [
+      [
+        0.061278257985323714,
+        0.021009712841008738,
+        0.019131881523413947,
+        0.05680892552615308,
+        0.04045388410438248
+      ],
+      [
+        0.540502154337265,
+        0.5175711312292138,
+        0.6212412912515523,
+        0.8873948041168311,
+        0.37378294147226543
+      ]
+    ],
+    "mean_loglik": -2.1354269503518895,
+    "converged": true,
+    "iterations": 29,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.135426950588647,
+        "converged": true,
+        "iterations": 29
+      },
+      {
+        "mean_loglik": -2.1354269505689896,
+        "converged": true,
+        "iterations": 29
+      },
+      {
+        "mean_loglik": -2.135426950405449,
+        "converged": true,
+        "iterations": 31
+      },
+      {
+        "mean_loglik": -2.1354269503518895,
+        "converged": true,
+        "iterations": 29
+      },
+      {
+        "mean_loglik": -2.1354269508224415,
+        "converged": true,
+        "iterations": 27
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "dep",
+    "group": "mobility",
+    "probabilities": [
+      [
+        0.0962364124055787,
+        0.04329153901528821,
+        0.037130481644843644,
+        0.08655100896799489,
+        0.04045271066821445
+      ],
+      [
+        0.6117549903714025,
+        0.5840243215787572,
+        0.7140745728564397,
+        0.9309315728775884,
+        0.3812850491998366
+      ]
+    ],
+    "mean_loglik": -2.3404728465059863,
+    "converged": true,
+    "iterations": 40,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.340472847086699,
+        "converged": true,
+        "iterations": 35
+      },
+      {
+        "mean_loglik": -2.340472846743179,
+        "converged": true,
+        "iterations": 31
+      },
+      {
+        "mean_loglik": -2.3404728465059863,
+        "converged": true,
+        "iterations": 40
+      },
+      {
+        "mean_loglik": -2.3404728466274785,
+        "converged": true,
+        "iterations": 36
+      },
+      {
+        "mean_loglik": -2.3404728466015414,
+        "converged": true,
+        "iterations": 40
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "dep",
+    "group": "cognition",
+    "probabilities": [
+      [
+        0.2609648740467443,
+        0.11330243903371216,
+        0.05955261616155859,
+        0.18866312733460922,
+        0.12830903495356363
+      ],
+      [
+        0.730831848978199,
+        0.6408739783212262,
+        0.7016588427373778,
+        0.9662136032390553,
+        0.562813301714411
+      ]
+    ],
+    "mean_loglik": -2.907305385617315,
+    "converged": true,
+    "iterations": 37,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.90730538563726,
+        "converged": true,
+        "iterations": 25
+      },
+      {
+        "mean_loglik": -2.907305385764036,
+        "converged": true,
+        "iterations": 31
+      },
+      {
+        "mean_loglik": -2.907305385617315,
+        "converged": true,
+        "iterations": 37
+      },
+      {
+        "mean_loglik": -2.9073053858515383,
+        "converged": true,
+        "iterations": 34
+      },
+      {
+        "mean_loglik": -2.907305385903053,
+        "converged": true,
+        "iterations": 38
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "dep",
+    "group": "selfcare",
+    "probabilities": [
+      [
+        0.1859964220855906,
+        0.044456865109159534,
+        0.07131685270722335,
+        0.0699621156757791,
+        0.09651295027760014
+      ],
+      [
+        0.767786770564539,
+        0.6152711189421249,
+        0.6742565998349445,
+        0.9049512799736911,
+        0.4201840775470004
+      ]
+    ],
+    "mean_loglik": -2.661324291458867,
+    "converged": true,
+    "iterations": 24,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.6613242921821882,
+        "converged": true,
+        "iterations": 45
+      },
+      {
+        "mean_loglik": -2.661324291458867,
+        "converged": true,
+        "iterations": 24
+      },
+      {
+        "mean_loglik": -2.6613242924717615,
+        "converged": true,
+        "iterations": 51
+      },
+      {
+        "mean_loglik": -2.66132429199264,
+        "converged": true,
+        "iterations": 49
+      },
+      {
+        "mean_loglik": -2.6613242920355535,
+        "converged": true,
+        "iterations": 51
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "dep",
+    "group": "communication",
+    "probabilities": [
+      [
+        0.15111329653563949,
+        0.050938397677400916,
+        0.02606664177525943,
+        0.056347682199909294,
+        0.11054641522132175
+      ],
+      [
+        0.7173748420247397,
+        0.584768582880788,
+        0.6024619422739332,
+        0.9015849365300179,
+        0.4864282848234428
+      ]
+    ],
+    "mean_loglik": -2.5219062098791993,
+    "converged": true,
+    "iterations": 50,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.5219062098791993,
+        "converged": true,
+        "iterations": 50
+      },
+      {
+        "mean_loglik": -2.5219062101387766,
+        "converged": true,
+        "iterations": 46
+      },
+      {
+        "mean_loglik": -2.5219062099608944,
+        "converged": true,
+        "iterations": 57
+      },
+      {
+        "mean_loglik": -2.521906210116143,
+        "converged": true,
+        "iterations": 54
+      },
+      {
+        "mean_loglik": -2.5219062099103513,
+        "converged": true,
+        "iterations": 58
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "anx",
+    "group": "No disability",
+    "probabilities": [
+      [
+        0.006389429844813125,
+        0.08109635954064116,
+        0.01657195648557621,
+        0.02112861876626417,
+        0.03365749088768738
+      ],
+      [
+        0.255480460497509,
+        0.6214183651440944,
+        0.5806009312273459,
+        0.7282997248774609,
+        0.4340116006287627
+      ]
+    ],
+    "mean_loglik": -1.4369887408704627,
+    "converged": true,
+    "iterations": 35,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -1.4369887413656737,
+        "converged": true,
+        "iterations": 33
+      },
+      {
+        "mean_loglik": -1.4369887410490318,
+        "converged": true,
+        "iterations": 35
+      },
+      {
+        "mean_loglik": -1.4369887408704627,
+        "converged": true,
+        "iterations": 35
+      },
+      {
+        "mean_loglik": -1.436988740969038,
+        "converged": true,
+        "iterations": 24
+      },
+      {
+        "mean_loglik": -1.4369887408892539,
+        "converged": true,
+        "iterations": 41
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "anx",
+    "group": "Any disability",
+    "probabilities": [
+      [
+        0.03616055691832521,
+        0.12491635039675382,
+        0.04890720578618318,
+        0.06836066269065091,
+        0.04826394466755168
+      ],
+      [
+        0.5033335575093736,
+        0.7858838533621518,
+        0.6966252924814975,
+        0.7860346063934616,
+        0.44762253759250886
+      ]
+    ],
+    "mean_loglik": -2.466727703762813,
+    "converged": true,
+    "iterations": 35,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.466727704153908,
+        "converged": true,
+        "iterations": 36
+      },
+      {
+        "mean_loglik": -2.4667277040949234,
+        "converged": true,
+        "iterations": 39
+      },
+      {
+        "mean_loglik": -2.466727703823461,
+        "converged": true,
+        "iterations": 41
+      },
+      {
+        "mean_loglik": -2.4667277039591204,
+        "converged": true,
+        "iterations": 37
+      },
+      {
+        "mean_loglik": -2.466727703762813,
+        "converged": true,
+        "iterations": 35
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "anx",
+    "group": "vision",
+    "probabilities": [
+      [
+        0.05343244755638081,
+        0.1490220141542475,
+        0.03953681401398004,
+        0.06311209984560225,
+        0.06251902818174876
+      ],
+      [
+        0.4578087450796375,
+        0.7729840714896863,
+        0.7299831140195511,
+        0.7696901124900234,
+        0.4182693354175818
+      ]
+    ],
+    "mean_loglik": -2.486587342447764,
+    "converged": true,
+    "iterations": 45,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.4865873425504916,
+        "converged": true,
+        "iterations": 45
+      },
+      {
+        "mean_loglik": -2.4865873426392215,
+        "converged": true,
+        "iterations": 49
+      },
+      {
+        "mean_loglik": -2.4865873428109704,
+        "converged": true,
+        "iterations": 50
+      },
+      {
+        "mean_loglik": -2.486587342447764,
+        "converged": true,
+        "iterations": 45
+      },
+      {
+        "mean_loglik": -2.4865873426554472,
+        "converged": true,
+        "iterations": 44
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "anx",
+    "group": "hearing",
+    "probabilities": [
+      [
+        0.018128014835589817,
+        0.1263456756961467,
+        0.05248486871774112,
+        0.09072963526633615,
+        0.035806104301626056
+      ],
+      [
+        0.5158587175980676,
+        0.8122878756804295,
+        0.6464233530819853,
+        0.7569001465052472,
+        0.43189857572622553
+      ]
+    ],
+    "mean_loglik": -2.211966697926382,
+    "converged": true,
+    "iterations": 35,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.211966698314754,
+        "converged": true,
+        "iterations": 32
+      },
+      {
+        "mean_loglik": -2.211966698139847,
+        "converged": true,
+        "iterations": 35
+      },
+      {
+        "mean_loglik": -2.2119666981765844,
+        "converged": true,
+        "iterations": 36
+      },
+      {
+        "mean_loglik": -2.2119666981708574,
+        "converged": true,
+        "iterations": 30
+      },
+      {
+        "mean_loglik": -2.211966697926382,
+        "converged": true,
+        "iterations": 35
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "anx",
+    "group": "mobility",
+    "probabilities": [
+      [
+        0.037167055402630184,
+        0.11893161178473985,
+        0.04881416107379434,
+        0.05975896799472937,
+        0.0357899895595084
+      ],
+      [
+        0.46691830648516963,
+        0.7509434527571611,
+        0.7184942646163802,
+        0.7802714043191896,
+        0.3870007952133622
+      ]
+    ],
+    "mean_loglik": -2.3711147306805316,
+    "converged": true,
+    "iterations": 40,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.3711147306805316,
+        "converged": true,
+        "iterations": 40
+      },
+      {
+        "mean_loglik": -2.371114731076104,
+        "converged": true,
+        "iterations": 42
+      },
+      {
+        "mean_loglik": -2.3711147308220775,
+        "converged": true,
+        "iterations": 44
+      },
+      {
+        "mean_loglik": -2.3711147313133942,
+        "converged": true,
+        "iterations": 39
+      },
+      {
+        "mean_loglik": -2.371114730829863,
+        "converged": true,
+        "iterations": 38
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "anx",
+    "group": "cognition",
+    "probabilities": [
+      [
+        0.09346317373862781,
+        0.21215104914245483,
+        0.06277522451537096,
+        0.1263824455305468,
+        0.11459509451948319
+      ],
+      [
+        0.6442489980785553,
+        0.8685444999433902,
+        0.7206006507871625,
+        0.8227581716766241,
+        0.5384781564484633
+      ]
+    ],
+    "mean_loglik": -2.9004461907138586,
+    "converged": true,
+    "iterations": 55,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.9004461907979247,
+        "converged": true,
+        "iterations": 45
+      },
+      {
+        "mean_loglik": -2.900446191081861,
+        "converged": true,
+        "iterations": 51
+      },
+      {
+        "mean_loglik": -2.9004461907138586,
+        "converged": true,
+        "iterations": 55
+      },
+      {
+        "mean_loglik": -2.9004461910595847,
+        "converged": true,
+        "iterations": 51
+      },
+      {
+        "mean_loglik": -2.9004461913797908,
+        "converged": true,
+        "iterations": 48
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "anx",
+    "group": "selfcare",
+    "probabilities": [
+      [
+        0.04395389885210229,
+        0.1525684370794895,
+        0.06999051994572375,
+        0.08360076139030052,
+        0.05729723369407734
+      ],
+      [
+        0.5628932359601714,
+        0.8076178774984243,
+        0.7476015496082601,
+        0.7228639343552845,
+        0.46717127834130956
+      ]
+    ],
+    "mean_loglik": -2.706155029900382,
+    "converged": true,
+    "iterations": 50,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.7061550299779142,
+        "converged": true,
+        "iterations": 48
+      },
+      {
+        "mean_loglik": -2.706155030075846,
+        "converged": true,
+        "iterations": 54
+      },
+      {
+        "mean_loglik": -2.7061550299153954,
+        "converged": true,
+        "iterations": 55
+      },
+      {
+        "mean_loglik": -2.706155029900382,
+        "converged": true,
+        "iterations": 50
+      },
+      {
+        "mean_loglik": -2.7061550302087123,
+        "converged": true,
+        "iterations": 38
+      }
+    ]
+  },
+  {
+    "survey": "NHIS",
+    "scale": "anx",
+    "group": "communication",
+    "probabilities": [
+      [
+        0.01144542255224506,
+        0.09525234299801727,
+        0.04271231822248438,
+        0.05400366447931972,
+        0.07005017066964274
+      ],
+      [
+        0.6255774595837296,
+        0.7801016099022855,
+        0.7481798186146669,
+        0.7785516653820322,
+        0.5031183835188097
+      ]
+    ],
+    "mean_loglik": -2.5134472727596826,
+    "converged": true,
+    "iterations": 31,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -2.5134472729816277,
+        "converged": true,
+        "iterations": 27
+      },
+      {
+        "mean_loglik": -2.513447272773797,
+        "converged": true,
+        "iterations": 30
+      },
+      {
+        "mean_loglik": -2.5134472727596826,
+        "converged": true,
+        "iterations": 31
+      },
+      {
+        "mean_loglik": -2.513447273053544,
+        "converged": true,
+        "iterations": 28
+      },
+      {
+        "mean_loglik": -2.513447273098628,
+        "converged": true,
+        "iterations": 21
+      }
+    ]
+  },
+  {
+    "survey": "NHANES",
+    "scale": "dep",
+    "group": "No disability",
+    "probabilities": [
+      [
+        0.030762485162559458,
+        0.028757663663698713,
+        0.10759372707637503
+      ],
+      [
+        0.543290644262574,
+        0.6977837936241598,
+        0.5071816088820373
+      ]
+    ],
+    "mean_loglik": -0.9538104957954845,
+    "converged": true,
+    "iterations": 95,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -0.9538104957954845,
+        "converged": true,
+        "iterations": 95
+      },
+      {
+        "mean_loglik": -0.9538104960019548,
+        "converged": true,
+        "iterations": 115
+      },
+      {
+        "mean_loglik": -0.9538104958313842,
+        "converged": true,
+        "iterations": 140
+      },
+      {
+        "mean_loglik": -0.9538104959221807,
+        "converged": true,
+        "iterations": 137
+      },
+      {
+        "mean_loglik": -0.9538104960922806,
+        "converged": true,
+        "iterations": 88
+      }
+    ]
+  },
+  {
+    "survey": "NHANES",
+    "scale": "dep",
+    "group": "Any disability",
+    "probabilities": [
+      [
+        0.09659497400068966,
+        0.050840387317665034,
+        0.13032933484224066
+      ],
+      [
+        0.6845449826454844,
+        0.7811308413917268,
+        0.47753332552637684
+      ]
+    ],
+    "mean_loglik": -1.695239368067206,
+    "converged": true,
+    "iterations": 145,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -1.6952393683220373,
+        "converged": true,
+        "iterations": 142
+      },
+      {
+        "mean_loglik": -1.6952393687317928,
+        "converged": true,
+        "iterations": 99
+      },
+      {
+        "mean_loglik": -1.695239368067206,
+        "converged": true,
+        "iterations": 145
+      },
+      {
+        "mean_loglik": -1.6952393684006126,
+        "converged": true,
+        "iterations": 143
+      },
+      {
+        "mean_loglik": -1.6952393681771096,
+        "converged": true,
+        "iterations": 159
+      }
+    ]
+  },
+  {
+    "survey": "NHANES",
+    "scale": "dep",
+    "group": "vision",
+    "probabilities": [
+      [
+        0.047142773543112776,
+        0.055623617825219566,
+        0.0939058893889255
+      ],
+      [
+        0.634970491105804,
+        0.6557728777709253,
+        0.4485920291368432
+      ]
+    ],
+    "mean_loglik": -1.704992643902433,
+    "converged": true,
+    "iterations": 212,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -1.704992643902433,
+        "converged": true,
+        "iterations": 212
+      },
+      {
+        "mean_loglik": -1.7049926442039676,
+        "converged": true,
+        "iterations": 196
+      },
+      {
+        "mean_loglik": -1.704992644216981,
+        "converged": true,
+        "iterations": 214
+      },
+      {
+        "mean_loglik": -1.7049926440304508,
+        "converged": true,
+        "iterations": 213
+      },
+      {
+        "mean_loglik": -1.7049926446004218,
+        "converged": true,
+        "iterations": 224
+      }
+    ]
+  },
+  {
+    "survey": "NHANES",
+    "scale": "dep",
+    "group": "hearing",
+    "probabilities": [
+      [
+        0.04325442103362737,
+        1.2548269475287125e-07,
+        0.12180668620075699
+      ],
+      [
+        0.5381800959220042,
+        0.6531842474392126,
+        0.49868751212606216
+      ]
+    ],
+    "mean_loglik": -1.4857161862088966,
+    "converged": true,
+    "iterations": 130,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -1.4857161862088966,
+        "converged": true,
+        "iterations": 130
+      },
+      {
+        "mean_loglik": -1.4857161866086321,
+        "converged": true,
+        "iterations": 124
+      },
+      {
+        "mean_loglik": -1.4857161862325239,
+        "converged": true,
+        "iterations": 129
+      },
+      {
+        "mean_loglik": -1.4857161864584916,
+        "converged": true,
+        "iterations": 129
+      },
+      {
+        "mean_loglik": -1.4857161866534057,
+        "converged": true,
+        "iterations": 137
+      }
+    ]
+  },
+  {
+    "survey": "NHANES",
+    "scale": "dep",
+    "group": "mobility",
+    "probabilities": [
+      [
+        0.061070200756321774,
+        0.03639833716735206,
+        0.05509246422721609
+      ],
+      [
+        0.680728860709446,
+        0.7672081273426001,
+        0.44930269407629897
+      ]
+    ],
+    "mean_loglik": -1.5155282144855935,
+    "converged": true,
+    "iterations": 104,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -1.5155282149272884,
+        "converged": true,
+        "iterations": 117
+      },
+      {
+        "mean_loglik": -1.5155282144855935,
+        "converged": true,
+        "iterations": 104
+      },
+      {
+        "mean_loglik": -1.5155282146999085,
+        "converged": true,
+        "iterations": 119
+      },
+      {
+        "mean_loglik": -1.5155282150845255,
+        "converged": true,
+        "iterations": 117
+      },
+      {
+        "mean_loglik": -1.5155282147802414,
+        "converged": true,
+        "iterations": 125
+      }
+    ]
+  },
+  {
+    "survey": "NHANES",
+    "scale": "dep",
+    "group": "cognition",
+    "probabilities": [
+      [
+        0.22957887247018666,
+        0.18435465963206324,
+        0.2532844667394282
+      ],
+      [
+        0.8196633560887888,
+        0.8548625897513743,
+        0.5157063295287666
+      ]
+    ],
+    "mean_loglik": -1.940679689923572,
+    "converged": true,
+    "iterations": 74,
+    "starts": 5,
+    "solutions": [
+      {
+        "mean_loglik": -1.9406797046502493,
+        "converged": true,
+        "iterations": 186
+      },
+      {
+        "mean_loglik": -1.94067970505622,
+        "converged": true,
+        "iterations": 254
+      },
+      {
+        "mean_loglik": -1.9406797052185665,
+        "converged": true,
+        "iterations": 144
+      },
+      {
+        "mean_loglik": -1.940679689923572,
+        "converged": true,
+        "iterations": 74
+      },
+      {
+        "mean_loglik": -1.9406797046028184,
+        "converged": true,
+        "iterations": 270
+      }
+    ]
+  }
+]

@@ -1,0 +1,447 @@
+method,comparator,level,n_levels,metric,difference,lo,hi
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.7,1,BAcc,-0.00039447075293208567,-0.005652524306125409,0.0048425888088515796
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.7,1,AOD,0.00982814898439266,-0.025290026861909676,0.03980751881728449
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.705,1,BAcc,0.0007357250913552216,-0.004951919661463108,0.006705338244936409
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.705,1,AOD,0.011379584262405915,-0.024998132428897698,0.04013155831279174
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.71,1,BAcc,-0.04272557608477345,-0.05258659284055664,-0.033115745341448385
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.71,1,AOD,0.002141031787573411,-0.07309798111376031,0.03596093826822855
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.715,1,BAcc,0.0015497020957814245,-0.0038388598232632796,0.00743809953464487
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.715,1,AOD,-0.016113051138852863,-0.03569017444089978,0.011832860648913951
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.72,1,BAcc,4.584401201712662e-05,-0.005126303909762764,0.00516891410150934
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.72,1,AOD,-0.011430764689501022,-0.03284864171392955,0.014851906381976915
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.725,1,BAcc,0.003029933274265373,-0.0016421992613508294,0.00781657255023076
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.725,1,AOD,-0.02741974723068466,-0.04557567914223359,0.0015795897617390522
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.73,1,BAcc,0.007362961410057212,0.002484711089725189,0.012203555807232121
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.73,1,AOD,-0.022978355773437792,-0.04368128011459706,0.03447000405603061
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.735,1,BAcc,0.007319387962427926,0.0029646609649605416,0.011967786376971726
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.735,1,AOD,-0.03778047266582833,-0.05606113040952391,0.03057386124653895
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.74,1,BAcc,0.00606791487484637,0.0007198361608990041,0.011130322172861848
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.74,1,AOD,-0.023367775653722972,-0.04236682207212892,0.03383264380156543
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.745,1,BAcc,0.006191025616192669,0.0006486408289637592,0.012180165946994162
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.745,1,AOD,-0.03528450646978644,-0.05743425897894048,0.01960028100025364
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.75,1,BAcc,-0.0020144045610616113,-0.006430645521459055,0.0020641529724681126
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.75,1,AOD,-0.016943893765052398,-0.059466287003502184,0.02607322794418415
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.755,1,BAcc,0.00026649537589762406,-0.001738994755530726,0.002423777492330735
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.755,1,AOD,-0.021038649008717852,-0.0521175341109138,0.023347948985006153
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.76,1,BAcc,0.007659078453359669,-0.0007686944156299169,0.015391154053110147
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.76,1,AOD,0.014013655345911896,-0.04295803518625766,0.051120589757802495
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.765,1,BAcc,0.007096242030920852,-0.0009156443487222189,0.014728266662929762
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.765,1,AOD,0.009760213921267288,-0.06641365966629642,0.05625045633626092
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.77,1,BAcc,-0.0019913344115666254,-0.009667479477957016,0.005484663292072746
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.77,1,AOD,-0.015501972437128517,-0.0623963420817912,0.03078363366647665
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.775,1,BAcc,0.002131776538434438,-0.004959827640394529,0.008295386059579525
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.775,1,AOD,0.017666831253624782,-0.05140769371676851,0.04878634096547881
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.78,1,BAcc,0.002553694844185217,-0.0013097204251596383,0.006454949302337225
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.78,1,AOD,-0.027578033027096063,-0.057182066989765724,0.03824186470165684
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.785,1,BAcc,0.005082445318481232,0.0019963173079772995,0.008203750896790348
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.785,1,AOD,-0.04465618872108722,-0.0648886313558964,0.024564681657291615
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.79,1,BAcc,0.004360708521290779,-0.001270827414880318,0.009308428671808705
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),0.79,1,AOD,0.006959860071028889,-0.04455752354239608,0.03587381305072824
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),mean,19,BAcc,0.000754060505746282,-0.002338905395991154,0.003823214606337784
+Items-only score + cross-fitted EO cut-offs (proposed),DAFS-I (proposed),mean,19,AOD,-0.012018109734457435,-0.031047663927388298,0.011033988095137677
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.7,1,BAcc,0.0026089801408217816,-0.0029378712943183946,0.00804339446396822
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.7,1,AOD,0.020680518448091115,-0.02245971877026667,0.04892180155342537
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.705,1,BAcc,0.0019016653269940953,-0.003994949448137599,0.008333244643747831
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.705,1,AOD,0.021755734506816643,-0.02217294205983874,0.051082996145049346
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.71,1,BAcc,0.0005208003395295036,-0.004633182242022601,0.006074500209138875
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.71,1,AOD,-0.01264433346021035,-0.03807639586066644,0.013943637241386846
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.715,1,BAcc,0.001496768086569289,-0.0037142428403681895,0.007327300663234097
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.715,1,AOD,-0.02131853219106508,-0.04441433696571659,0.011499212599070484
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.72,1,BAcc,0.006299084953797718,0.0004495150012984646,0.012329582149874395
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.72,1,AOD,-0.03433348261241723,-0.05572379365392669,-0.001364610654441141
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.725,1,BAcc,0.0016443225343080181,-0.0034565836217933573,0.006616912520507272
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.725,1,AOD,-0.028986607264669756,-0.05236463670972965,0.0030704979353827436
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.73,1,BAcc,0.006831431567748125,0.0019164082288365054,0.011832149732004516
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.73,1,AOD,-0.024307384240715615,-0.04615539290948061,0.030737224396754307
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.735,1,BAcc,0.006515872224351238,0.0018805683888391462,0.011312145280295694
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.735,1,AOD,-0.03642269819312305,-0.056977668992718604,0.02429002516232508
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.74,1,BAcc,0.004490862822723152,-0.0006927958684190687,0.009931405795747408
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.74,1,AOD,-0.028649434467832302,-0.052800644161236476,0.022794329976315104
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.745,1,BAcc,0.004198262303138245,-0.000702567350053021,0.010271937272997186
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.745,1,AOD,-0.026871393762978674,-0.04829081016332975,0.02834738472102533
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.75,1,BAcc,-0.0035679752472423942,-0.00767718335631534,0.00010702575678428633
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.75,1,AOD,-0.016731894841165468,-0.05172041081299709,0.0345980961872518
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.755,1,BAcc,-0.0019926930749990523,-0.01033292486894483,0.006651801313078049
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.755,1,AOD,-0.058350941458922154,-0.08091664776088954,0.024218411497933925
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.76,1,BAcc,3.178648230861558e-05,-0.0041802698059975356,0.004518905171536854
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.76,1,AOD,-0.013222415138236854,-0.051019901659796515,0.029687182137598217
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.765,1,BAcc,0.0008463185034498499,-0.003415505902939048,0.00508748411443324
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.765,1,AOD,-0.015152292529400715,-0.048243589666065574,0.036388645451106975
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.77,1,BAcc,-8.777561144901469e-05,-0.003818460707914864,0.003643884884372056
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.77,1,AOD,-0.017243406677976247,-0.05590579193073711,0.03189858298853461
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.775,1,BAcc,0.005281885127807029,0.0015187407815588222,0.009426773713285427
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.775,1,AOD,-0.004094349662267127,-0.04962593184934653,0.038536529410497504
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.78,1,BAcc,0.0015423658521697137,-0.0023292859865829104,0.005258545641372786
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.78,1,AOD,-0.0037952208684500777,-0.027495376431936593,0.03446673661724587
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.785,1,BAcc,0.0010805606791400857,-0.001885050944506547,0.003926751972116571
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.785,1,AOD,-0.009281555554436854,-0.033175093441689237,0.029066985090761797
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.79,1,BAcc,0.004083682210885509,0.001127473943258256,0.007186172077177474
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.79,1,AOD,-0.014379634050006071,-0.03804287463812059,0.02063605096683483
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.795,1,BAcc,0.005643095986744284,0.00305605460888658,0.008081801012231604
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",0.795,1,AOD,0.0005226968991100811,-0.05189264049060244,0.03022765326037685
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",mean,20,BAcc,0.0024684650604397894,-0.00016072914805251447,0.005056847067262617
+Items-only score + cross-fitted EO cut-offs (proposed),"PSTA (Dang et al., 2024)",mean,20,AOD,-0.01614133135599279,-0.029143106282806416,0.00872192760559538
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.7,1,BAcc,0.010913288520155717,0.004213282115909545,0.017887892152312714
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.7,1,AOD,-0.1695940469418978,-0.23047391323247005,-0.10831767242597769
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.705,1,BAcc,0.00801120977097669,0.001648921078940352,0.014889239503556766
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.705,1,AOD,-0.16624592299878246,-0.22300515333920745,-0.10453479953581725
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.71,1,BAcc,-0.0469689767865632,-0.05687409569219026,-0.0372010169809961
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.71,1,AOD,-0.08504048224720212,-0.13715039672923163,-0.02903491680163679
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.715,1,BAcc,-0.00031227638164532667,-0.006320518577555839,0.006342416817680351
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.715,1,AOD,-0.17346058753142615,-0.2251354301078034,-0.11230584329378267
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.72,1,BAcc,0.005124880535421483,-0.0016420133145543412,0.012237333605135427
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.72,1,AOD,-0.1777150475482782,-0.22836388017940185,-0.11678302915966698
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.725,1,BAcc,0.0063514830306020675,-0.0007278985848022417,0.013384050022285725
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.725,1,AOD,-0.19701630068237488,-0.24773916401016394,-0.1370945572704547
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.73,1,BAcc,0.01338652489839165,0.006566047935099492,0.02060879028233472
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.73,1,AOD,-0.20230154021576785,-0.2504211980100891,-0.13627171860253934
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.735,1,BAcc,0.005106595122668867,-0.0010604011896876487,0.011436223979563785
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.735,1,AOD,-0.2155935073876367,-0.26087363594833984,-0.14179790987351903
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.74,1,BAcc,0.0071848005745503984,0.0012787516624562956,0.013208585916451358
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.74,1,AOD,-0.21402303749478377,-0.2634354268657563,-0.14847095193528867
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.745,1,BAcc,0.009827696065765168,0.0034965279061960675,0.01604985988804944
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.745,1,AOD,-0.22256223876227313,-0.2619815578512532,-0.1542084398804696
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.75,1,BAcc,-0.0007093344640235477,-0.006615586743109905,0.004358614075507914
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.75,1,AOD,-0.21671230351104073,-0.2596574292954131,-0.1537354896141689
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.755,1,BAcc,0.0009939864097040507,-0.00744952493573815,0.010878339789640134
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.755,1,AOD,-0.24365512570529407,-0.26237458108185785,-0.15139993490285644
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.76,1,BAcc,0.0031725195080792856,-0.005200153804047797,0.011232057408440084
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.76,1,AOD,-0.11662851043704942,-0.16074130351871238,-0.05880763589812513
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.765,1,BAcc,0.003610038114437497,-0.004795651819976168,0.01174430915218224
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.765,1,AOD,-0.11913406920374266,-0.16248265946000695,-0.06250342197504606
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.77,1,BAcc,0.010778821253371373,0.002531187547444838,0.01911749823968818
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.77,1,AOD,-0.1334940273911443,-0.1685729328387692,-0.07322910638812628
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.775,1,BAcc,0.002742497493426921,-0.004877902776983784,0.009508796639797984
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.775,1,AOD,-0.157051970506918,-0.1853333073561506,-0.08802860856330608
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.78,1,BAcc,0.006391108026564951,-0.0014099558623848782,0.012747266672798465
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.78,1,AOD,-0.1609608717435113,-0.19294452442570992,-0.08704175443111128
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.785,1,BAcc,0.009053055867847992,0.0018192000716689973,0.015259747317679517
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.785,1,AOD,-0.17750561834792195,-0.19695187328224326,-0.0999177489909229
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.79,1,BAcc,-0.001468094412927834,-0.005802991782511438,0.0029667372747494967
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.79,1,AOD,-0.2054545293237109,-0.22561927287105238,-0.13205676935634483
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.795,1,BAcc,0.004075650690985477,-0.0009448401445102755,0.009703573039827761
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",0.795,1,AOD,-0.20875655243875124,-0.22697588414256098,-0.1304838275531622
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",mean,20,BAcc,0.002863273691889484,-0.0007822814216347144,0.006785974291197724
+Items-only score + cross-fitted EO cut-offs (proposed),"Reweighing (Dang et al., 2024)",mean,20,AOD,-0.17814531452097537,-0.20533890723155993,-0.1265081117261136
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.7,1,BAcc,-0.0012045547206175344,-0.007476596768989363,0.005458097300241229
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.7,1,AOD,-0.026009799635074382,-0.10465071955966337,0.02937289472903627
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.705,1,BAcc,-0.005144527416653832,-0.010852932311577579,0.0013286674789980569
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.705,1,AOD,-0.023546091448345907,-0.09022638368767023,0.03516914271429299
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.71,1,BAcc,-3.707687946008509e-05,-0.005718993408469519,0.006233631621237043
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.71,1,AOD,-0.03425537884972363,-0.09892901826375568,0.027261397564428646
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.715,1,BAcc,-0.005772763772327161,-0.011532069379885133,0.00044737985608911396
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.715,1,AOD,-0.0491638525253599,-0.10965489839757159,0.018141333377500173
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.72,1,BAcc,-0.006695217873424197,-0.01241030923444214,-0.0011888271988168833
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.72,1,AOD,-0.060090011729323406,-0.12135738341012273,0.00203347065489952
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.725,1,BAcc,-0.005688203171582473,-0.011351663912639939,0.00017182538497086846
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.725,1,AOD,-0.07044420494426995,-0.13008636005394714,-0.007717285445926408
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.73,1,BAcc,0.00029257191856091325,-0.006198720361304791,0.006772032866411154
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.73,1,AOD,-0.07616488479197697,-0.12693337742346378,0.0025463999244844148
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.735,1,BAcc,0.0004154963929218214,-0.006230719738187093,0.006537852066002106
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.735,1,AOD,-0.09676562112749287,-0.14267005985478948,-0.014069455803210064
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.74,1,BAcc,0.00021271878520590093,-0.006266796486911169,0.00635112399039023
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.74,1,AOD,-0.10500494679426328,-0.15048851363905377,-0.029911756066095786
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.745,1,BAcc,0.006175337112604762,-0.003804323961242961,0.013945943194292428
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.745,1,AOD,-0.14087767557130773,-0.21238370895278627,-0.05736335172818822
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.75,1,BAcc,0.004587224396909062,-0.005342104301338174,0.012309141546292736
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.75,1,AOD,-0.14074570877784104,-0.21606637386514974,-0.06182232718538761
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.755,1,BAcc,-0.005380592254569105,-0.01088360952090601,-7.47610583360791e-05
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.755,1,AOD,-0.14717032613272996,-0.18280695160493754,-0.07751284954262498
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.76,1,BAcc,-0.002138063256802658,-0.010114898081407536,0.0057547184471175485
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.76,1,AOD,-0.09617206206345852,-0.1703707712089746,-0.037540929224971924
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.765,1,BAcc,-0.001073750375271465,-0.008885162094315651,0.00680776107193022
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.765,1,AOD,-0.09905305192746268,-0.17028159388579123,-0.03217549349138292
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.77,1,BAcc,0.0025781286053575547,-0.0048920497110544105,0.010261986622424769
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",0.77,1,AOD,-0.11730680783052432,-0.18309787228116714,-0.04320462618670347
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",mean,15,BAcc,-0.0012582181672765665,-0.0059714968902157455,0.0031428283213460638
+Items-only score + cross-fitted EO cut-offs (proposed),"Disparate impact remover (Dang et al., 2024)",mean,15,AOD,-0.0855180282766103,-0.13720233436387105,-0.027262862672856304
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.7,1,BAcc,0.005120541186363736,-0.005141713748934148,0.01445881758545698
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.7,1,AOD,-0.06183421000737044,-0.12663709725176964,-0.0027104553329324443
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.705,1,BAcc,0.007564222447887015,-0.002326946596506907,0.017763904350045483
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.705,1,AOD,-0.06411634199098248,-0.12721889917202164,-0.005038310075105025
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.71,1,BAcc,-0.05446335042521944,-0.06402592644204942,-0.04420644560280108
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.71,1,AOD,-0.06393901888508408,-0.1283468527642612,-0.004042948576622654
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.715,1,BAcc,0.0009212677711462058,-0.008606026812246587,0.010525017834463657
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.715,1,AOD,-0.07252391061490651,-0.13507016329195443,-0.012461792886769235
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.72,1,BAcc,0.00011938610282624662,-0.00987724494310691,0.010119495652957602
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.72,1,AOD,-0.06008730502523471,-0.12333127098241511,0.0009638359905599829
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.725,1,BAcc,-0.0016922077118075585,-0.011910503934721694,0.009280727895224048
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.725,1,AOD,-0.06047922089914784,-0.1199724231767042,-0.0008211283993317672
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.73,1,BAcc,0.004607017895486565,-0.006031388795282668,0.01564823183019344
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.73,1,AOD,-0.06886184774481718,-0.12731043604434267,0.002514297345593767
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.735,1,BAcc,0.00012036268287329843,-0.010632700652817703,0.010342946906538879
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.735,1,AOD,-0.09539826920917246,-0.14366012698886546,-0.02108985121981178
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.74,1,BAcc,-0.006771003316808022,-0.016959936482102145,0.0026599360384835908
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.74,1,AOD,-0.08728345786051131,-0.14034299047220022,-0.01780176777397224
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.745,1,BAcc,0.0009802960273302963,-0.009317610152056396,0.010546766662423313
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.745,1,AOD,-0.07776910292021358,-0.1275457583138738,-0.003043369038646296
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.75,1,BAcc,0.0009158065922938441,-0.009359715034540458,0.010032098104672888
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.75,1,AOD,-0.08462399211721897,-0.14245516056424526,-0.020764703992086894
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.755,1,BAcc,0.0008301623307432893,-0.0066406036847949405,0.008167363657510947
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.755,1,AOD,-0.10540034935910245,-0.14452863937913762,-0.017526527198325488
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.76,1,BAcc,-0.0007251522808929822,-0.009652572478602572,0.007624450789154143
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",0.76,1,AOD,-0.09132366370128403,-0.14217184915095896,-0.03476600062555486
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",mean,13,BAcc,-0.003267126976752116,-0.01175428617715453,0.005016155875728896
+Items-only score + cross-fitted EO cut-offs (proposed),"Fairness-regularised model (Khan et al., 2026)",mean,13,AOD,-0.07643389925654201,-0.12204794256741447,-0.020878608780146354
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.7,1,BAcc,0.016257743556302384,0.009368829071168525,0.02327978791069046
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.7,1,AOD,-0.17886085527009285,-0.24282685980227253,-0.11615499454035008
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.705,1,BAcc,-0.04863622617141483,-0.05848742822632165,-0.03846398423653173
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.705,1,AOD,-0.08301459105713327,-0.140384570351383,-0.028591904862953307
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.71,1,BAcc,-0.043001022776658404,-0.05296050112709642,-0.032844988846214805
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.71,1,AOD,-0.09228519476375777,-0.1483827411835043,-0.03848399756033914
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.715,1,BAcc,0.012111994574937723,0.005873405600811863,0.01967784087842753
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.715,1,AOD,-0.19364967989440432,-0.25075812337151787,-0.13476561833861667
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.72,1,BAcc,0.0015957090152188824,-0.005024519382568443,0.008607781313531706
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.72,1,AOD,-0.18725828781566542,-0.24013489241344332,-0.12592596473939152
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.725,1,BAcc,0.0041893317346106684,-0.0028131548160922615,0.011325924795185016
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.725,1,AOD,-0.19965118383395433,-0.2515473638977967,-0.138466104675456
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.73,1,BAcc,0.006274825603895029,-0.0006867181788122316,0.01359065131507395
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.73,1,AOD,-0.21525851176647648,-0.265021289680823,-0.14876584341678814
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.735,1,BAcc,0.011392742948652335,0.004547316114066416,0.018402715565843906
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.735,1,AOD,-0.23003366218191626,-0.2749174729028599,-0.1593729745423064
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.74,1,BAcc,0.0050281776823183355,-0.0008106904385302205,0.011067883395610368
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.74,1,AOD,-0.22070309459081608,-0.26829991947743376,-0.15310202083382135
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.745,1,BAcc,0.0064751745920546,0.00036750674226135067,0.012425739243371927
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.745,1,AOD,-0.22554895849386095,-0.2645730008833805,-0.15594619935970686
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.75,1,BAcc,-0.0008322793651993621,-0.006408718872953983,0.005130377224666806
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.75,1,AOD,-0.21760421468208122,-0.26025171026088034,-0.15380862229981038
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.755,1,BAcc,0.003652681683669723,-0.005471696213152005,0.013482504230045078
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.755,1,AOD,-0.2497681516031744,-0.2680647469829293,-0.15722356042661687
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.76,1,BAcc,0.003518749947262534,-0.005063339552255713,0.011591945068845507
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.76,1,AOD,-0.11819723936420912,-0.16357921105981355,-0.060684125882525114
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.765,1,BAcc,0.005483054784622188,-0.0031974916808457316,0.013529904891185662
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.765,1,AOD,-0.11805501633223343,-0.1615474128093615,-0.06122893875655208
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.77,1,BAcc,0.012418716505843586,0.004172628662518515,0.020609224264262056
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.77,1,AOD,-0.13072387216169978,-0.1655401088713626,-0.07044793762734437
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.775,1,BAcc,0.0040447834159852425,-0.003719708614597544,0.010737214738247266
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.775,1,AOD,-0.1531147095995198,-0.18205919131658463,-0.08392799637639242
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.78,1,BAcc,0.008009299303700756,0.0003261610404383336,0.014492987917139273
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.78,1,AOD,-0.15459461573348704,-0.18626149833335065,-0.08114651343030861
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.785,1,BAcc,0.0038766655423703167,-0.003327202675340915,0.009991599600620349
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.785,1,AOD,-0.18684794740163124,-0.20792247050673182,-0.11050004489805344
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.79,1,BAcc,-0.0021645049479550593,-0.006438959346967021,0.0019332894513593916
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.79,1,AOD,-0.20695619751432187,-0.22635353738067374,-0.13223600956246404
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.795,1,BAcc,0.004337616165077551,-0.0006478945098569777,0.009766299463237788
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,0.795,1,AOD,-0.21105214341022066,-0.23109865925124556,-0.1321393309699482
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,mean,20,BAcc,0.0007016616897647099,-0.003019512703794576,0.004692439256424749
+Items-only score + cross-fitted EO cut-offs (proposed),Logistic regression,mean,20,AOD,-0.17865890637353282,-0.20685242049989327,-0.12660785306347505
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.7,1,BAcc,0.00039447075293208567,-0.00484258880885158,0.005652524306125408
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.7,1,AOD,-0.00982814898439266,-0.039807518817284504,0.025290026861909662
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.705,1,BAcc,-0.0007357250913552216,-0.00670533824493641,0.004951919661463108
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.705,1,AOD,-0.011379584262405915,-0.04013155831279174,0.024998132428897694
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.71,1,BAcc,0.04272557608477345,0.03311574534144837,0.05258659284055664
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.71,1,AOD,-0.002141031787573411,-0.0359609382682286,0.07309798111376031
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.715,1,BAcc,-0.0015497020957814245,-0.007438099534644871,0.0038388598232632783
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.715,1,AOD,0.016113051138852863,-0.011832860648913951,0.03569017444089977
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.72,1,BAcc,-4.584401201712662e-05,-0.005168914101509342,0.005126303909762761
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.72,1,AOD,0.011430764689501022,-0.014851906381976919,0.03284864171392955
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.725,1,BAcc,-0.003029933274265373,-0.007816572550230761,0.0016421992613508284
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.725,1,AOD,0.02741974723068466,-0.0015795897617390732,0.04557567914223359
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.73,1,BAcc,-0.007362961410057212,-0.012203555807232123,-0.002484711089725191
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.73,1,AOD,0.022978355773437792,-0.03447000405603063,0.04368128011459705
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.735,1,BAcc,-0.007319387962427926,-0.01196778637697173,-0.002964660964960543
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.735,1,AOD,0.03778047266582833,-0.030573861246538974,0.05606113040952391
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.74,1,BAcc,-0.00606791487484637,-0.011130322172861848,-0.0007198361608990072
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.74,1,AOD,0.023367775653722972,-0.033832643801565455,0.0423668220721289
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.745,1,BAcc,-0.006191025616192669,-0.012180165946994162,-0.0006486408289637614
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.745,1,AOD,0.03528450646978644,-0.019600281000253676,0.05743425897894043
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.75,1,BAcc,0.0020144045610616113,-0.0020641529724681165,0.0064306455214590535
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.75,1,AOD,0.016943893765052398,-0.026073227944184152,0.059466287003502184
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.755,1,BAcc,-0.00026649537589762406,-0.0024237774923307363,0.0017389947555307259
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.755,1,AOD,0.021038649008717852,-0.023347948985006157,0.05211753411091379
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.76,1,BAcc,-0.007659078453359669,-0.015391154053110149,0.0007686944156299167
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.76,1,AOD,-0.014013655345911896,-0.051120589757802516,0.04295803518625762
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.765,1,BAcc,-0.007096242030920852,-0.014728266662929767,0.0009156443487222125
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.765,1,AOD,-0.009760213921267288,-0.05625045633626093,0.06641365966629642
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.77,1,BAcc,0.0019913344115666254,-0.005484663292072747,0.00966747947795701
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.77,1,AOD,0.015501972437128517,-0.03078363366647668,0.06239634208179117
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.775,1,BAcc,-0.002131776538434438,-0.008295386059579527,0.0049598276403945265
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.775,1,AOD,-0.017666831253624782,-0.04878634096547883,0.051407693716768475
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.78,1,BAcc,-0.002553694844185217,-0.006454949302337226,0.001309720425159638
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.78,1,AOD,0.027578033027096063,-0.038241864701656844,0.057182066989765724
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.785,1,BAcc,-0.005082445318481232,-0.00820375089679035,-0.0019963173079773004
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.785,1,AOD,0.04465618872108722,-0.02456468165729164,0.06488863135589638
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.79,1,BAcc,-0.004360708521290779,-0.009308428671808705,0.0012708274148803109
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),0.79,1,AOD,-0.006959860071028889,-0.035873813050728245,0.04455752354239608
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),mean,19,BAcc,-0.000754060505746282,-0.003823214606337785,0.002338905395991154
+DAFS-I (proposed),Items-only score + cross-fitted EO cut-offs (proposed),mean,19,AOD,0.012018109734457435,-0.011033988095137691,0.031047663927388284
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.7,1,BAcc,0.0030034508937538673,0.0010454036053447746,0.005008512649024342
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.7,1,AOD,0.010852369463698455,-0.009950170459509758,0.02847138514382861
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.705,1,BAcc,0.0011659402356388737,-0.0004780807115266239,0.002720804423642092
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.705,1,AOD,0.010376150244410728,-0.012805230433940265,0.028676324621917826
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.71,1,BAcc,0.04324637642430296,0.03423704005543695,0.05324193345912607
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.71,1,AOD,-0.01478536524778376,-0.04653983511578517,0.061809312647038164
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.715,1,BAcc,-5.2934009212135535e-05,-0.0007954928678076456,0.0008232343541899847
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.715,1,AOD,-0.005205481052212219,-0.022415755464430087,0.015150076324800248
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.72,1,BAcc,0.006253240941780591,0.003922466807687125,0.009061552768418723
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.72,1,AOD,-0.022902717922916205,-0.04152166749677417,0.003021019973403732
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.725,1,BAcc,-0.0013856107399573547,-0.003046643211396538,0.00010834434511175352
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.725,1,AOD,-0.0015668600339850958,-0.021093007606715508,0.01697256343096623
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.73,1,BAcc,-0.0005315298423090864,-0.0017824240133185675,0.0008674458496863976
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.73,1,AOD,-0.0013290284672778235,-0.018724274649694825,0.01769779537465206
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.735,1,BAcc,-0.0008035157380766877,-0.0020443419550377597,0.0004116100822737249
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.735,1,AOD,0.0013577744727052837,-0.016178624961184187,0.01786117250193231
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.74,1,BAcc,-0.0015770520521232179,-0.0029880472914774166,-0.0003050836837861533
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.74,1,AOD,-0.00528165881410933,-0.02301244131891894,0.014114719286806866
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.745,1,BAcc,-0.0019927633130544242,-0.003982717470019473,-0.00029397786330932513
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.745,1,AOD,0.008413112706807765,-0.011056586357314083,0.027902545734302047
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.75,1,BAcc,-0.001553570686180783,-0.003282930056555086,0.00021347142872704062
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.75,1,AOD,0.0002119989238869302,-0.0234462029288931,0.030061336337142756
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.755,1,BAcc,-0.0022591884508966764,-0.010346319636751172,0.00669905298901594
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.755,1,AOD,-0.0373122924502043,-0.06183934186555899,0.023882434312075065
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.76,1,BAcc,-0.007627291971051053,-0.015175730304392874,0.0008792247699885706
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.76,1,AOD,-0.02723607048414875,-0.0604626312671573,0.029951183775877934
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.765,1,BAcc,-0.006249923527471002,-0.01403626962459724,0.002095824856015166
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.765,1,AOD,-0.024912506450668004,-0.05804797087488817,0.05065118541125796
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.77,1,BAcc,0.0019035588001176107,-0.005216020229693594,0.009620652791298263
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.77,1,AOD,-0.0017414342408477307,-0.03925492575229212,0.04630704379529141
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.775,1,BAcc,0.003150108589372591,-0.003911319310363456,0.010552651821245854
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.775,1,AOD,-0.02176118091589191,-0.054528114736249994,0.03540196872961415
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.78,1,BAcc,-0.0010113289920155033,-0.0027883776389546035,0.0007303368825462201
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.78,1,AOD,0.023782812158645986,-0.01961098854794502,0.043866653215490464
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.785,1,BAcc,-0.004001884639341147,-0.006576278615254669,-0.0016537961030935455
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.785,1,AOD,0.03537463316665036,-0.012416579633438226,0.05139730867915721
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.79,1,BAcc,-0.0002770263104052706,-0.0052836960689763785,0.004332533088765
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",0.79,1,AOD,-0.02133949412103496,-0.042373008027753144,0.028378087605585484
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",mean,19,BAcc,0.0015473187164669552,-0.0010503582822113835,0.004087603274786824
+DAFS-I (proposed),"PSTA (Dang et al., 2024)",mean,19,AOD,-0.005000275740224977,-0.015178934320232465,0.013695329700091038
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.7,1,BAcc,0.011307759273087803,0.006318508237164777,0.01672396446840352
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.7,1,AOD,-0.17942219592629047,-0.23279156913166452,-0.11780855305419967
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.705,1,BAcc,0.007275484679621469,0.0027535611049072928,0.012196551493333376
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.705,1,AOD,-0.17762550726118836,-0.22714551387766482,-0.11849554786751902
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.71,1,BAcc,-0.004243400701789746,-0.0064404421046209605,-0.0020148105415629925
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.71,1,AOD,-0.08718151403477553,-0.1212092488114253,-0.021288444048605283
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.715,1,BAcc,-0.0018619784774267512,-0.006145598264066576,0.002595352163805779
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.715,1,AOD,-0.1573475363925733,-0.21008157639480202,-0.09985622407784558
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.72,1,BAcc,0.005079036523404357,1.1590244260406558e-05,0.010347941364923723
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.72,1,AOD,-0.16628428285877717,-0.21821159531034992,-0.11014478328023222
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.725,1,BAcc,0.0033215497563366947,-0.0016020744302562171,0.008188737020464947
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.725,1,AOD,-0.16959655345169022,-0.22764842151164297,-0.1137090571492071
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.73,1,BAcc,0.006023563488334438,0.0006864704636269038,0.011518692752097612
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.73,1,AOD,-0.17932318444233006,-0.23331785804543403,-0.12113312644627117
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.735,1,BAcc,-0.002212792839759059,-0.007358939525651195,0.0029876987541808276
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.735,1,AOD,-0.17781303472180837,-0.22918049887863814,-0.12000162901252198
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.74,1,BAcc,0.0011168856997040288,-0.004166670923908302,0.006399610916825631
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.74,1,AOD,-0.1906552618410608,-0.2382027673250808,-0.1310562944169424
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.745,1,BAcc,0.003636670449572499,-0.002057910681656044,0.009208788213315814
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.745,1,AOD,-0.18727773229248668,-0.23538035503528237,-0.1284544104024739
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.75,1,BAcc,0.0013050700970380635,-0.0040113085849181745,0.006302789971195834
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.75,1,AOD,-0.19976840974598833,-0.2431060605062569,-0.13283939906540104
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.755,1,BAcc,0.0007274910338064267,-0.007370664370048438,0.010660622238135175
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.755,1,AOD,-0.22261647669657622,-0.2531323296945319,-0.15274184098647
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.76,1,BAcc,-0.004486558945280383,-0.007035964021054849,-0.0017795603858300703
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.76,1,AOD,-0.1306421657829613,-0.1671539965549694,-0.05869577686284577
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.765,1,BAcc,-0.0034862039164833547,-0.006022388849183596,-0.0008206454792883571
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.765,1,AOD,-0.12889428312500995,-0.16627741827178794,-0.04676229930493098
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.77,1,BAcc,0.012770155664937999,0.008076162470327006,0.01661697768846837
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.77,1,AOD,-0.11799205495401577,-0.1554654382655454,-0.05327951884821463
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.775,1,BAcc,0.000610720954992483,-0.0031931522079849755,0.0043723622778648295
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.775,1,AOD,-0.17471880176054277,-0.1922939531997536,-0.0890159061080295
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.78,1,BAcc,0.003837413182379734,-0.0032028901154938475,0.010419667586459251
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.78,1,AOD,-0.13338283871641526,-0.17720928936411842,-0.07167161080890737
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.785,1,BAcc,0.00397061054936676,-0.00253869248698321,0.010229934479243821
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.785,1,AOD,-0.13284942962683471,-0.17534287601754128,-0.07063784863682673
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.79,1,BAcc,-0.005828802934218613,-0.011906998083825806,0.0007236831762801785
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",0.79,1,AOD,-0.21241438939473978,-0.22691500778782175,-0.12753585431192552
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",mean,19,BAcc,0.0020454038704013078,-0.0002799600563622441,0.004582185153446504
+DAFS-I (proposed),"Reweighing (Dang et al., 2024)",mean,19,AOD,-0.16451608700137185,-0.1942289228570668,-0.11417023609072306
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.7,1,BAcc,-0.0008100839676854488,-0.005300185321823214,0.0038719161114501707
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.7,1,AOD,-0.03583794861946704,-0.10908852211403444,0.024187259004155227
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.705,1,BAcc,-0.005880252508009054,-0.010526927017904125,-0.0006849855904306425
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.705,1,AOD,-0.03492567571075182,-0.09757240474028968,0.031839565050921455
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.71,1,BAcc,0.04268849920531337,0.03408051962933298,0.05241028669669721
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.71,1,AOD,-0.03639641063729704,-0.07607195281521849,0.03431812319429664
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.715,1,BAcc,-0.007322465868108585,-0.012429145235297428,-0.0017344508223265118
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.715,1,AOD,-0.03305080138650704,-0.1024311002727099,0.02584019708422053
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.72,1,BAcc,-0.006741061885441324,-0.011740392700296347,-0.0011819394397115455
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.72,1,AOD,-0.048659247039822384,-0.11483032732199239,0.009505285281414559
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.725,1,BAcc,-0.008718136445847846,-0.01431731840352859,-0.0027722078278437957
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.725,1,AOD,-0.04302445771358529,-0.10677414549206908,0.01330291709552856
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.73,1,BAcc,-0.007070389491496298,-0.012423332122765352,-0.0013206973497161371
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.73,1,AOD,-0.05318652901853918,-0.11377244070877102,0.005894763518162316
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.735,1,BAcc,-0.006903891569506104,-0.012960064725553711,-0.0011634319812218537
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.735,1,AOD,-0.05898514846166454,-0.12218969239458022,0.003677440660704578
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.74,1,BAcc,-0.005855196089640469,-0.01145833581206818,-0.0002276895477015805
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.74,1,AOD,-0.08163717114054031,-0.14002099660934658,-0.018307489670292224
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.745,1,BAcc,-1.56885035879073e-05,-0.009505220729724907,0.007761621239344763
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.745,1,AOD,-0.10559316910152129,-0.1919973293140653,-0.03761352329237898
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.75,1,BAcc,0.006601628957970673,-0.003054196774205095,0.014076710076564226
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.75,1,AOD,-0.12380181501278864,-0.19621300247144802,-0.05163421007587245
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.755,1,BAcc,-0.0056470876304667295,-0.010722623131120847,-0.0008243616192335437
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.755,1,AOD,-0.1261316771240121,-0.1820001647054496,-0.06887092810609947
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.76,1,BAcc,-0.009797141710162327,-0.015593978666121161,-0.003914109934605764
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.76,1,AOD,-0.11018571740937042,-0.1618797160525616,-0.05134750951169688
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.765,1,BAcc,-0.008169992406192317,-0.01407303484673653,-0.0025798909492313663
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.765,1,AOD,-0.10881326584872997,-0.15104475048039703,-0.0470791817475402
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.77,1,BAcc,0.00456946301692418,-0.0013591431960392642,0.009829307627856191
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",0.77,1,AOD,-0.1018048353933958,-0.1597789264020193,-0.03366252811821509
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",mean,15,BAcc,-0.001271453126395746,-0.004180399112829862,0.001945802446800751
+DAFS-I (proposed),"Disparate impact remover (Dang et al., 2024)",mean,15,AOD,-0.07346892464119952,-0.12183614840030076,-0.021261164140337314
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.7,1,BAcc,0.005515011939295822,-0.004053592995498917,0.015279970659576262
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.7,1,AOD,-0.0716623589917631,-0.13509182974477385,-0.012851461184013315
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.705,1,BAcc,0.006828497356531793,-0.002240913192718291,0.01626331085200952
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.705,1,AOD,-0.0754959262533884,-0.13764241388370274,-0.017951900753293837
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.71,1,BAcc,-0.011737774340445983,-0.01850490359001448,-0.005212701611932842
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.71,1,AOD,-0.06608005067265749,-0.10216332005582568,0.004797061898722266
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.715,1,BAcc,-0.0006284343246352186,-0.010228478665576152,0.008969894244735254
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.715,1,AOD,-0.05641085947605365,-0.12282775872265014,-0.0018050116610886738
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.72,1,BAcc,7.354209080912e-05,-0.008479607279965828,0.009770044927087327
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.72,1,AOD,-0.04865654033573369,-0.11279912803671996,0.009109464030720202
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.725,1,BAcc,-0.004722140986072931,-0.014343170789480863,0.005310299207869377
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.725,1,AOD,-0.03305947366846318,-0.09657311061971861,0.02566550638415029
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.73,1,BAcc,-0.002755943514570647,-0.012710007035010726,0.008057120875649488
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.73,1,AOD,-0.04588349197137939,-0.10752527248204427,0.01609246991688168
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.735,1,BAcc,-0.007199025279554627,-0.016814128741676516,0.003086727754390861
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.735,1,AOD,-0.05761779654334413,-0.11781867378903069,0.003998065571464913
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.74,1,BAcc,-0.012838918191654392,-0.021656461886826767,-0.003398433438909832
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.74,1,AOD,-0.06391568220678834,-0.11944488943193005,-0.0002928608607508194
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.745,1,BAcc,-0.005210729588862373,-0.014304954446417889,0.004578631072577154
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.745,1,AOD,-0.04248459645042714,-0.10331984033373849,0.018893117410811677
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.75,1,BAcc,0.0029302111533554553,-0.00643364559501633,0.011902527690414466
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.75,1,AOD,-0.06768009835216657,-0.12832230141706377,-0.0059183440380916625
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.755,1,BAcc,0.0005636669548456652,-0.006732281516280067,0.008656460623371748
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.755,1,AOD,-0.0843617003503846,-0.14459197372083457,-0.014912772482542488
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.76,1,BAcc,-0.008384230734252651,-0.01526893038726053,-0.0013610988665738399
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",0.76,1,AOD,-0.10533731904719593,-0.14872272706492537,-0.03585865249878334
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",mean,13,BAcc,-0.002889712881939305,-0.010002348904602956,0.00465414392624129
+DAFS-I (proposed),"Fairness-regularised model (Khan et al., 2026)",mean,13,AOD,-0.06297276110151889,-0.10904148866557409,-0.009579797826507738
+DAFS-I (proposed),Logistic regression,0.7,1,BAcc,0.01665221430923447,0.011066928876187116,0.021983317324955936
+DAFS-I (proposed),Logistic regression,0.7,1,AOD,-0.1886890042544855,-0.2424453230167838,-0.12708199250029897
+DAFS-I (proposed),Logistic regression,0.705,1,BAcc,-0.04937195126277005,-0.0593180598302174,-0.04001557048516391
+DAFS-I (proposed),Logistic regression,0.705,1,AOD,-0.09439417531953918,-0.14827092056478713,-0.03328013952693475
+DAFS-I (proposed),Logistic regression,0.71,1,BAcc,-0.00027544669188495075,-0.002131604011701088,0.0014937695318466028
+DAFS-I (proposed),Logistic regression,0.71,1,AOD,-0.09442622655133118,-0.13490294650478027,-0.02686849895275261
+DAFS-I (proposed),Logistic regression,0.715,1,BAcc,0.010562292479156299,0.0054341740226864135,0.01580356883596712
+DAFS-I (proposed),Logistic regression,0.715,1,AOD,-0.17753662875555146,-0.23720223474778032,-0.11953074923144615
+DAFS-I (proposed),Logistic regression,0.72,1,BAcc,0.0015498650032017558,-0.002868874611065958,0.006556731224935583
+DAFS-I (proposed),Logistic regression,0.72,1,AOD,-0.1758275231261644,-0.23061678568216207,-0.11702571623116205
+DAFS-I (proposed),Logistic regression,0.725,1,BAcc,0.0011593984603452956,-0.003644599309260904,0.006371728539747777
+DAFS-I (proposed),Logistic regression,0.725,1,AOD,-0.17223143660326967,-0.22859440956408691,-0.11271485835714874
+DAFS-I (proposed),Logistic regression,0.73,1,BAcc,-0.0010881358061621826,-0.0060300846512948815,0.004193173646642204
+DAFS-I (proposed),Logistic regression,0.73,1,AOD,-0.1922801559930387,-0.24303765611745662,-0.13315736897596817
+DAFS-I (proposed),Logistic regression,0.735,1,BAcc,0.004073354986224409,-0.0014535475856924994,0.010052076647465914
+DAFS-I (proposed),Logistic regression,0.735,1,AOD,-0.19225318951608794,-0.24383361635354803,-0.13530152046453128
+DAFS-I (proposed),Logistic regression,0.74,1,BAcc,-0.001039737192528034,-0.006206393547115293,0.0042980349643290785
+DAFS-I (proposed),Logistic regression,0.74,1,AOD,-0.1973353189370931,-0.24426039988579323,-0.13788045934582946
+DAFS-I (proposed),Logistic regression,0.745,1,BAcc,0.0002841489758619309,-0.005062068218458803,0.005890337296703739
+DAFS-I (proposed),Logistic regression,0.745,1,AOD,-0.1902644520240745,-0.23961170553450753,-0.13084388811136588
+DAFS-I (proposed),Logistic regression,0.75,1,BAcc,0.0011821251958622492,-0.004473449094940937,0.006444673590093315
+DAFS-I (proposed),Logistic regression,0.75,1,AOD,-0.20066032091702882,-0.2439159653072255,-0.13477804604963245
+DAFS-I (proposed),Logistic regression,0.755,1,BAcc,0.003386186307772099,-0.005358325868574504,0.013156253379708594
+DAFS-I (proposed),Logistic regression,0.755,1,AOD,-0.22872950259445654,-0.2579270677002261,-0.1576350485783361
+DAFS-I (proposed),Logistic regression,0.76,1,BAcc,-0.004140328506097135,-0.006665744502708129,-0.0013691587358003025
+DAFS-I (proposed),Logistic regression,0.76,1,AOD,-0.132210894710121,-0.16779696693493565,-0.06158864658817843
+DAFS-I (proposed),Logistic regression,0.765,1,BAcc,-0.001613187246298664,-0.003998371836754641,0.0010240878358871123
+DAFS-I (proposed),Logistic regression,0.765,1,AOD,-0.12781523025350072,-0.16387708895098038,-0.045305852389360766
+DAFS-I (proposed),Logistic regression,0.77,1,BAcc,0.014410050917410211,0.009649844523525372,0.018418679221835963
+DAFS-I (proposed),Logistic regression,0.77,1,AOD,-0.11522189972457128,-0.1517153042665111,-0.05037670409157245
+DAFS-I (proposed),Logistic regression,0.775,1,BAcc,0.0019130068775508047,-0.001789141788506679,0.005746280260727112
+DAFS-I (proposed),Logistic regression,0.775,1,AOD,-0.1707815408531446,-0.18850108623063425,-0.0847391964941671
+DAFS-I (proposed),Logistic regression,0.78,1,BAcc,0.0054556044595155395,-0.0016887119350509766,0.012345460906569412
+DAFS-I (proposed),Logistic regression,0.78,1,AOD,-0.127016582706391,-0.17113902741477555,-0.06501744149509243
+DAFS-I (proposed),Logistic regression,0.785,1,BAcc,-0.0012057797761109157,-0.007936414238659808,0.005122077869283642
+DAFS-I (proposed),Logistic regression,0.785,1,AOD,-0.142191758680544,-0.18457489875617708,-0.07929175203999216
+DAFS-I (proposed),Logistic regression,0.79,1,BAcc,-0.0065252134692458386,-0.012421827758502299,-0.000438439290632375
+DAFS-I (proposed),Logistic regression,0.79,1,AOD,-0.21391605758535076,-0.22668677853122488,-0.12920631223306622
+DAFS-I (proposed),Logistic regression,mean,19,BAcc,-0.0002437648409980374,-0.0024377967605236513,0.002270551593076408
+DAFS-I (proposed),Logistic regression,mean,19,AOD,-0.16493588942661813,-0.19500558738902177,-0.11462820702596935
