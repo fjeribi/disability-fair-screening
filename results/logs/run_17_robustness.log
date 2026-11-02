@@ -1,0 +1,22 @@
+check                        R0 main (2019+2022)  R1 current-only indicators  R2 single-domain only  R3 'some difficulty' only  R4 test year 2025  R8 equal access (insured, usual care)
+group                                                                                                                                                                                   
+cognition                                   26.1                        20.9                   20.8                        4.8               18.5                                   23.1
+communication                               15.1                        14.4                    NaN                        2.5               18.0                                   15.7
+hearing                                      6.1                         5.9                    1.6                        1.8                9.7                                    6.1
+mobility                                     9.6                         8.0                    6.7                        3.0                7.1                                    9.1
+none                                         1.1                         1.0                    NaN                        NaN                1.6                                    1.0
+none (no difficulty at all)                  NaN                         NaN                    NaN                        0.6                NaN                                    NaN
+selfcare                                    18.6                        18.6                    NaN                        4.5               10.2                                   18.8
+vision                                       8.0                         7.7                    3.2                        2.5                9.5                                    8.6
+
+n per cell:
+ check                        R0 main (2019+2022)  R1 current-only indicators  R2 single-domain only  R3 'some difficulty' only  R4 test year 2025  R8 equal access (insured, usual care)
+group                                                                                                                                                                                   
+cognition                                 1345.0                      1348.0                  685.0                     7795.0              634.0                                 1180.0
+communication                              389.0                       389.0                    NaN                     1611.0              190.0                                  348.0
+hearing                                   1021.0                      1022.0                  561.0                     7322.0              422.0                                  929.0
+mobility                                  3768.0                      3771.0                 2562.0                     7835.0             1545.0                                 3539.0
+none                                     51928.0                     51970.0                    NaN                        NaN            20849.0                                43913.0
+none (no difficulty at all)                  NaN                         NaN                    NaN                    31386.0                NaN                                    NaN
+selfcare                                   615.0                       617.0                    NaN                      833.0              277.0                                  574.0
+vision                                     970.0                       970.0                  498.0                     7596.0              451.0                                  842.0

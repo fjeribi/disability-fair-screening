@@ -1,0 +1,26 @@
+analysed share 0.972; inverse-probability factor range 1.01-1.79
+check          R5 women  R6 men  R7 non-response weighted
+group                                                    
+cognition          30.3    20.2                      26.2
+communication      12.5    14.0                      16.2
+hearing            10.2     4.2                       6.3
+mobility            9.0     8.8                       9.8
+none                1.3     0.9                       1.1
+selfcare           21.8    15.9                      19.2
+vision              8.5     5.3                       8.0
+check          R5 women   R6 men  R7 non-response weighted
+group                                                     
+cognition         786.0    559.0                    1345.0
+communication     198.0    191.0                     389.0
+hearing           455.0    566.0                    1021.0
+mobility         2406.0   1362.0                    3768.0
+none            27783.0  24139.0                   51928.0
+selfcare          361.0    254.0                     615.0
+vision            580.0    390.0                     970.0
+       domain    n   FPR   gap  SE_gap   MDD  gap_over_MDD
+       vision  970  7.96  6.84    1.97  5.51          1.24
+      hearing 1021  6.13  5.01    1.38  3.87          1.29
+     mobility 3768  9.62  8.51    1.19  3.34          2.54
+    cognition 1345 26.10 24.98    2.46  6.88          3.63
+     selfcare  615 18.60 17.48    3.73 10.44          1.68
+communication  389 15.11 13.99    4.26 11.93          1.17

@@ -1,0 +1,154 @@
+                                                     method  level  dev_BAcc  dev_AOD   BAcc    AOD  AOD_lo  AOD_hi
+0    Items-only score + cross-fitted EO cut-offs (proposed)  0.700     0.700    0.032  0.684  0.123   0.071   0.179
+1    Items-only score + cross-fitted EO cut-offs (proposed)  0.705     0.704    0.034  0.688  0.120   0.072   0.173
+2    Items-only score + cross-fitted EO cut-offs (proposed)  0.710     0.712    0.032  0.693  0.111   0.063   0.164
+3    Items-only score + cross-fitted EO cut-offs (proposed)  0.715     0.716    0.033  0.696  0.106   0.059   0.163
+4    Items-only score + cross-fitted EO cut-offs (proposed)  0.720     0.720    0.034  0.701  0.102   0.057   0.156
+5    Items-only score + cross-fitted EO cut-offs (proposed)  0.725     0.723    0.034  0.707  0.094   0.052   0.145
+6    Items-only score + cross-fitted EO cut-offs (proposed)  0.730     0.731    0.038  0.716  0.091   0.055   0.157
+7    Items-only score + cross-fitted EO cut-offs (proposed)  0.735     0.737    0.036  0.722  0.077   0.045   0.148
+8    Items-only score + cross-fitted EO cut-offs (proposed)  0.740     0.741    0.035  0.725  0.079   0.047   0.142
+9    Items-only score + cross-fitted EO cut-offs (proposed)  0.745     0.744    0.035  0.729  0.072   0.045   0.138
+10   Items-only score + cross-fitted EO cut-offs (proposed)  0.750     0.748    0.035  0.731  0.075   0.046   0.136
+11   Items-only score + cross-fitted EO cut-offs (proposed)  0.755     0.757    0.028  0.736  0.043   0.044   0.115
+12   Items-only score + cross-fitted EO cut-offs (proposed)  0.760     0.760    0.028  0.744  0.078   0.048   0.132
+13   Items-only score + cross-fitted EO cut-offs (proposed)  0.765     0.764    0.028  0.746  0.078   0.050   0.135
+14   Items-only score + cross-fitted EO cut-offs (proposed)  0.770     0.769    0.032  0.753  0.064   0.042   0.123
+15   Items-only score + cross-fitted EO cut-offs (proposed)  0.775     0.776    0.036  0.764  0.063   0.047   0.118
+16   Items-only score + cross-fitted EO cut-offs (proposed)  0.780     0.781    0.029  0.768  0.062   0.046   0.130
+17   Items-only score + cross-fitted EO cut-offs (proposed)  0.785     0.783    0.031  0.770  0.046   0.042   0.122
+18   Items-only score + cross-fitted EO cut-offs (proposed)  0.790     0.788    0.037  0.774  0.051   0.044   0.118
+19   Items-only score + cross-fitted EO cut-offs (proposed)  0.795     0.793    0.041  0.782  0.053   0.045   0.110
+20                                        DAFS-I (proposed)  0.700     0.702    0.040  0.684  0.113   0.070   0.170
+21                                        DAFS-I (proposed)  0.705     0.705    0.036  0.687  0.109   0.067   0.165
+22                                        DAFS-I (proposed)  0.710     0.709    0.037  0.736  0.109   0.086   0.171
+23                                        DAFS-I (proposed)  0.715     0.714    0.036  0.694  0.123   0.075   0.174
+24                                        DAFS-I (proposed)  0.720     0.718    0.036  0.701  0.114   0.067   0.166
+25                                        DAFS-I (proposed)  0.725     0.726    0.042  0.704  0.121   0.075   0.170
+26                                        DAFS-I (proposed)  0.730     0.730    0.041  0.709  0.114   0.071   0.163
+27                                        DAFS-I (proposed)  0.735     0.736    0.037  0.715  0.115   0.070   0.161
+28                                        DAFS-I (proposed)  0.740     0.740    0.040  0.719  0.102   0.060   0.148
+29                                        DAFS-I (proposed)  0.745     0.743    0.033  0.722  0.108   0.067   0.153
+30                                        DAFS-I (proposed)  0.750     0.750    0.035  0.734  0.092   0.060   0.150
+31                                        DAFS-I (proposed)  0.755     0.757    0.029  0.736  0.064   0.049   0.127
+32                                        DAFS-I (proposed)  0.760     0.758    0.029  0.736  0.064   0.049   0.127
+33                                        DAFS-I (proposed)  0.765     0.767    0.032  0.739  0.069   0.053   0.143
+34                                        DAFS-I (proposed)  0.770     0.768    0.034  0.755  0.080   0.060   0.135
+35                                        DAFS-I (proposed)  0.775     0.777    0.032  0.761  0.045   0.044   0.129
+36                                        DAFS-I (proposed)  0.780     0.781    0.030  0.765  0.089   0.063   0.145
+37                                        DAFS-I (proposed)  0.785     0.783    0.032  0.765  0.090   0.064   0.149
+38                                        DAFS-I (proposed)  0.790     0.788    0.033  0.770  0.044   0.043   0.126
+39                                 PSTA (Dang et al., 2024)  0.700     0.701    0.038  0.681  0.102   0.058   0.161
+40                                 PSTA (Dang et al., 2024)  0.705     0.706    0.036  0.686  0.098   0.052   0.156
+41                                 PSTA (Dang et al., 2024)  0.710     0.710    0.042  0.693  0.123   0.074   0.172
+42                                 PSTA (Dang et al., 2024)  0.715     0.716    0.042  0.694  0.128   0.081   0.174
+43                                 PSTA (Dang et al., 2024)  0.720     0.718    0.042  0.695  0.136   0.088   0.182
+44                                 PSTA (Dang et al., 2024)  0.725     0.726    0.042  0.705  0.123   0.078   0.167
+45                                 PSTA (Dang et al., 2024)  0.730     0.730    0.039  0.709  0.116   0.071   0.161
+46                                 PSTA (Dang et al., 2024)  0.735     0.733    0.040  0.715  0.113   0.067   0.155
+47                                 PSTA (Dang et al., 2024)  0.740     0.742    0.038  0.721  0.107   0.062   0.149
+48                                 PSTA (Dang et al., 2024)  0.745     0.747    0.047  0.724  0.099   0.063   0.140
+49                                 PSTA (Dang et al., 2024)  0.750     0.752    0.042  0.735  0.092   0.061   0.140
+50                                 PSTA (Dang et al., 2024)  0.755     0.756    0.038  0.738  0.101   0.067   0.147
+51                                 PSTA (Dang et al., 2024)  0.760     0.761    0.038  0.744  0.091   0.061   0.140
+52                                 PSTA (Dang et al., 2024)  0.765     0.764    0.041  0.745  0.093   0.061   0.139
+53                                 PSTA (Dang et al., 2024)  0.770     0.768    0.042  0.753  0.081   0.055   0.138
+54                                 PSTA (Dang et al., 2024)  0.775     0.775    0.041  0.758  0.067   0.052   0.132
+55                                 PSTA (Dang et al., 2024)  0.780     0.782    0.030  0.766  0.065   0.049   0.129
+56                                 PSTA (Dang et al., 2024)  0.785     0.784    0.029  0.769  0.055   0.050   0.122
+57                                 PSTA (Dang et al., 2024)  0.790     0.788    0.038  0.770  0.065   0.054   0.126
+58                                 PSTA (Dang et al., 2024)  0.795     0.793    0.063  0.776  0.052   0.049   0.135
+59                           Reweighing (Dang et al., 2024)  0.700     0.699    0.259  0.673  0.292   0.251   0.341
+60                           Reweighing (Dang et al., 2024)  0.705     0.703    0.263  0.680  0.286   0.245   0.331
+61                           Reweighing (Dang et al., 2024)  0.710     0.710    0.187  0.740  0.196   0.159   0.235
+62                           Reweighing (Dang et al., 2024)  0.715     0.716    0.268  0.696  0.280   0.241   0.324
+63                           Reweighing (Dang et al., 2024)  0.720     0.719    0.266  0.696  0.280   0.240   0.324
+64                           Reweighing (Dang et al., 2024)  0.725     0.724    0.271  0.701  0.291   0.251   0.331
+65                           Reweighing (Dang et al., 2024)  0.730     0.730    0.270  0.703  0.294   0.255   0.334
+66                           Reweighing (Dang et al., 2024)  0.735     0.737    0.262  0.717  0.292   0.254   0.328
+67                           Reweighing (Dang et al., 2024)  0.740     0.742    0.256  0.718  0.293   0.254   0.329
+68                           Reweighing (Dang et al., 2024)  0.745     0.745    0.255  0.719  0.295   0.257   0.331
+69                           Reweighing (Dang et al., 2024)  0.750     0.752    0.249  0.732  0.292   0.253   0.330
+70                           Reweighing (Dang et al., 2024)  0.755     0.754    0.248  0.735  0.287   0.247   0.325
+71                           Reweighing (Dang et al., 2024)  0.760     0.762    0.217  0.740  0.195   0.160   0.235
+72                           Reweighing (Dang et al., 2024)  0.765     0.763    0.213  0.742  0.197   0.163   0.238
+73                           Reweighing (Dang et al., 2024)  0.770     0.769    0.216  0.742  0.198   0.163   0.238
+74                           Reweighing (Dang et al., 2024)  0.775     0.773    0.221  0.761  0.220   0.182   0.257
+75                           Reweighing (Dang et al., 2024)  0.780     0.780    0.226  0.761  0.223   0.184   0.259
+76                           Reweighing (Dang et al., 2024)  0.785     0.783    0.226  0.761  0.223   0.185   0.260
+77                           Reweighing (Dang et al., 2024)  0.790     0.791    0.234  0.776  0.256   0.220   0.301
+78                           Reweighing (Dang et al., 2024)  0.795     0.796    0.236  0.778  0.262   0.228   0.302
+79             Disparate impact remover (Dang et al., 2024)  0.700     0.702    0.173  0.685  0.149   0.123   0.199
+80             Disparate impact remover (Dang et al., 2024)  0.705     0.706    0.175  0.693  0.144   0.115   0.187
+81             Disparate impact remover (Dang et al., 2024)  0.710     0.710    0.180  0.693  0.145   0.116   0.188
+82             Disparate impact remover (Dang et al., 2024)  0.715     0.717    0.173  0.702  0.156   0.126   0.197
+83             Disparate impact remover (Dang et al., 2024)  0.720     0.722    0.171  0.708  0.162   0.132   0.204
+84             Disparate impact remover (Dang et al., 2024)  0.725     0.727    0.167  0.713  0.164   0.135   0.209
+85             Disparate impact remover (Dang et al., 2024)  0.730     0.731    0.168  0.716  0.168   0.137   0.208
+86             Disparate impact remover (Dang et al., 2024)  0.735     0.733    0.167  0.722  0.173   0.143   0.212
+87             Disparate impact remover (Dang et al., 2024)  0.740     0.739    0.175  0.725  0.184   0.152   0.222
+88             Disparate impact remover (Dang et al., 2024)  0.745     0.745    0.155  0.722  0.213   0.169   0.281
+89             Disparate impact remover (Dang et al., 2024)  0.750     0.748    0.175  0.727  0.216   0.170   0.284
+90             Disparate impact remover (Dang et al., 2024)  0.755     0.756    0.178  0.741  0.190   0.168   0.263
+91             Disparate impact remover (Dang et al., 2024)  0.760     0.762    0.177  0.746  0.174   0.150   0.243
+92             Disparate impact remover (Dang et al., 2024)  0.765     0.766    0.175  0.747  0.177   0.149   0.242
+93             Disparate impact remover (Dang et al., 2024)  0.770     0.768    0.177  0.750  0.181   0.150   0.248
+94           Fairness-regularised model (Khan et al., 2026)  0.700     0.702    0.153  0.679  0.185   0.151   0.234
+95           Fairness-regularised model (Khan et al., 2026)  0.705     0.704    0.153  0.680  0.184   0.152   0.232
+96           Fairness-regularised model (Khan et al., 2026)  0.710     0.712    0.122  0.748  0.175   0.136   0.220
+97           Fairness-regularised model (Khan et al., 2026)  0.715     0.713    0.153  0.695  0.179   0.143   0.232
+98           Fairness-regularised model (Khan et al., 2026)  0.720     0.722    0.150  0.701  0.162   0.127   0.213
+99           Fairness-regularised model (Khan et al., 2026)  0.725     0.726    0.152  0.709  0.154   0.117   0.206
+100          Fairness-regularised model (Khan et al., 2026)  0.730     0.728    0.154  0.712  0.160   0.121   0.211
+101          Fairness-regularised model (Khan et al., 2026)  0.735     0.736    0.155  0.722  0.172   0.132   0.218
+102          Fairness-regularised model (Khan et al., 2026)  0.740     0.741    0.150  0.732  0.166   0.124   0.212
+103          Fairness-regularised model (Khan et al., 2026)  0.745     0.744    0.152  0.728  0.150   0.111   0.202
+104          Fairness-regularised model (Khan et al., 2026)  0.750     0.751    0.143  0.731  0.160   0.122   0.222
+105          Fairness-regularised model (Khan et al., 2026)  0.755     0.757    0.149  0.735  0.149   0.114   0.215
+106          Fairness-regularised model (Khan et al., 2026)  0.760     0.762    0.151  0.744  0.170   0.135   0.224
+107                                     Logistic regression  0.700     0.698    0.268  0.668  0.302   0.260   0.350
+108                                     Logistic regression  0.705     0.707    0.188  0.736  0.203   0.170   0.242
+109                                     Logistic regression  0.710     0.708    0.188  0.736  0.203   0.170   0.242
+110                                     Logistic regression  0.715     0.716    0.269  0.684  0.300   0.257   0.345
+111                                     Logistic regression  0.720     0.722    0.266  0.700  0.289   0.248   0.332
+112                                     Logistic regression  0.725     0.724    0.267  0.703  0.293   0.252   0.334
+113                                     Logistic regression  0.730     0.729    0.273  0.710  0.307   0.269   0.344
+114                                     Logistic regression  0.735     0.735    0.268  0.711  0.307   0.270   0.344
+115                                     Logistic regression  0.740     0.742    0.264  0.720  0.299   0.261   0.335
+116                                     Logistic regression  0.745     0.746    0.260  0.722  0.298   0.261   0.335
+117                                     Logistic regression  0.750     0.751    0.257  0.732  0.293   0.255   0.331
+118                                     Logistic regression  0.755     0.755    0.253  0.732  0.293   0.255   0.330
+119                                     Logistic regression  0.760     0.762    0.217  0.740  0.196   0.160   0.235
+120                                     Logistic regression  0.765     0.764    0.221  0.740  0.196   0.160   0.235
+121                                     Logistic regression  0.770     0.770    0.224  0.740  0.195   0.160   0.235
+122                                     Logistic regression  0.775     0.773    0.227  0.760  0.216   0.178   0.253
+123                                     Logistic regression  0.780     0.780    0.231  0.760  0.216   0.179   0.253
+124                                     Logistic regression  0.785     0.783    0.237  0.767  0.233   0.194   0.269
+125                                     Logistic regression  0.790     0.792    0.237  0.776  0.258   0.223   0.301
+126                                     Logistic regression  0.795     0.793    0.237  0.778  0.264   0.229   0.307
+                                                     method                                              comparator level  n_levels metric  difference     lo     hi
+38   Items-only score + cross-fitted EO cut-offs (proposed)                                       DAFS-I (proposed)  mean        19   BAcc       0.001 -0.002  0.004
+39   Items-only score + cross-fitted EO cut-offs (proposed)                                       DAFS-I (proposed)  mean        19    AOD      -0.012 -0.031  0.011
+80   Items-only score + cross-fitted EO cut-offs (proposed)                                PSTA (Dang et al., 2024)  mean        20   BAcc       0.002 -0.000  0.005
+81   Items-only score + cross-fitted EO cut-offs (proposed)                                PSTA (Dang et al., 2024)  mean        20    AOD      -0.016 -0.029  0.009
+122  Items-only score + cross-fitted EO cut-offs (proposed)                          Reweighing (Dang et al., 2024)  mean        20   BAcc       0.003 -0.001  0.007
+123  Items-only score + cross-fitted EO cut-offs (proposed)                          Reweighing (Dang et al., 2024)  mean        20    AOD      -0.178 -0.205 -0.127
+154  Items-only score + cross-fitted EO cut-offs (proposed)            Disparate impact remover (Dang et al., 2024)  mean        15   BAcc      -0.001 -0.006  0.003
+155  Items-only score + cross-fitted EO cut-offs (proposed)            Disparate impact remover (Dang et al., 2024)  mean        15    AOD      -0.086 -0.137 -0.027
+182  Items-only score + cross-fitted EO cut-offs (proposed)          Fairness-regularised model (Khan et al., 2026)  mean        13   BAcc      -0.003 -0.012  0.005
+183  Items-only score + cross-fitted EO cut-offs (proposed)          Fairness-regularised model (Khan et al., 2026)  mean        13    AOD      -0.076 -0.122 -0.021
+224  Items-only score + cross-fitted EO cut-offs (proposed)                                     Logistic regression  mean        20   BAcc       0.001 -0.003  0.005
+225  Items-only score + cross-fitted EO cut-offs (proposed)                                     Logistic regression  mean        20    AOD      -0.179 -0.207 -0.127
+264                                       DAFS-I (proposed)  Items-only score + cross-fitted EO cut-offs (proposed)  mean        19   BAcc      -0.001 -0.004  0.002
+265                                       DAFS-I (proposed)  Items-only score + cross-fitted EO cut-offs (proposed)  mean        19    AOD       0.012 -0.011  0.031
+304                                       DAFS-I (proposed)                                PSTA (Dang et al., 2024)  mean        19   BAcc       0.002 -0.001  0.004
+305                                       DAFS-I (proposed)                                PSTA (Dang et al., 2024)  mean        19    AOD      -0.005 -0.015  0.014
+344                                       DAFS-I (proposed)                          Reweighing (Dang et al., 2024)  mean        19   BAcc       0.002 -0.000  0.005
+345                                       DAFS-I (proposed)                          Reweighing (Dang et al., 2024)  mean        19    AOD      -0.165 -0.194 -0.114
+376                                       DAFS-I (proposed)            Disparate impact remover (Dang et al., 2024)  mean        15   BAcc      -0.001 -0.004  0.002
+377                                       DAFS-I (proposed)            Disparate impact remover (Dang et al., 2024)  mean        15    AOD      -0.073 -0.122 -0.021
+404                                       DAFS-I (proposed)          Fairness-regularised model (Khan et al., 2026)  mean        13   BAcc      -0.003 -0.010  0.005
+405                                       DAFS-I (proposed)          Fairness-regularised model (Khan et al., 2026)  mean        13    AOD      -0.063 -0.109 -0.010
+444                                       DAFS-I (proposed)                                     Logistic regression  mean        19   BAcc      -0.000 -0.002  0.002
+445                                       DAFS-I (proposed)                                     Logistic regression  mean        19    AOD      -0.165 -0.195 -0.115
+FRONTIER COMPLETE anx_band

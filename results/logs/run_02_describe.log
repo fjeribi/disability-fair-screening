@@ -1,0 +1,31 @@
+split                       group     n  phq_cases  gad_cases  pct_phq10  pct_gad10  pct_depmed  pct_anxmed  pct_therapy  pct_depev  pct_anxev  mean_age
+train               No disability 53338       2502       2352        5.0        4.8         8.9        11.1         10.1       14.5       14.0      46.7
+train              Any disability  6215       1631       1199       29.7       22.5        28.7        31.1         21.1       41.7       35.9      59.6
+train                      vision  1013        273        198       28.8       21.1        27.6        31.1         20.3       41.2       33.7      59.1
+train                     hearing  1069        215        151       23.1       16.8        22.8        23.8         15.3       34.8       29.9      62.9
+train                    mobility  3930       1001        685       29.3       20.1        29.3        30.7         17.2       40.2       33.5      65.0
+train                   cognition  1434        694        538       50.8       40.7        38.9        43.8         35.6       58.2       51.8      51.9
+train                    selfcare   686        279        175       45.4       29.4        33.7        40.6         25.1       43.3       38.4      63.9
+train               communication   434        158        117       38.1       29.1        25.3        36.2         26.4       37.0       37.8      56.6
+train        vision (only domain)   510         82         58       15.9       11.6        20.5        24.3         19.0       31.1       26.9      54.1
+train       hearing (only domain)   581         60         59       12.6       12.3        18.0        19.4         11.9       28.1       23.4      60.2
+train      mobility (only domain)  2639        506        361       22.1       15.8        25.9        27.2         14.6       36.5       30.6      64.5
+train     cognition (only domain)   711        317        256       45.9       38.8        37.2        40.8         39.1       61.5       54.8      44.3
+train      selfcare (only domain)    56         18         15       54.0       44.1        32.4        35.2         39.3       63.8       56.9      48.7
+train communication (only domain)    84         15         15       20.1       23.9        23.5        25.6         19.5       33.7       36.9      50.3
+ test               No disability 21454        970        914        4.8        4.8         9.3        12.1         12.4       15.7       16.5      47.2
+ test              Any disability  2727        690        515       28.2       22.0        26.9        29.1         22.0       40.2       36.2      58.5
+ test                      vision   476        136        104       29.2       25.6        28.3        27.9         19.8       43.6       34.9      58.5
+ test                     hearing   448         91         73       20.8       17.0        18.2        20.3         14.2       33.2       29.7      63.4
+ test                    mobility  1620        379        263       25.5       18.7        27.1        28.8         16.6       36.1       32.7      65.2
+ test                   cognition   675        332        256       52.0       39.4        40.3        43.1         37.0       59.1       53.6      50.0
+ test                    selfcare   303        118         71       39.2       25.8        30.7        35.3         22.5       38.7       39.5      59.5
+ test               communication   209         79         62       38.0       33.1        26.2        28.9         24.1       40.5       37.2      50.7
+ test        vision (only domain)   262         35         31       14.4       14.1        18.9        20.7         17.2       32.9       26.1      55.1
+ test       hearing (only domain)   257         25         24       12.7       11.7        14.0        15.3         15.9       25.8       25.8      59.9
+ test      mobility (only domain)  1097        171        121       17.2       12.7        22.7        25.1         15.0       30.9       29.3      65.7
+ test     cognition (only domain)   347        156        123       47.0       36.0        40.9        45.2         42.1       63.3       55.3      44.6
+ test      selfcare (only domain)    36         14          8       34.7       20.9        24.3        20.8         25.6       44.6       44.7      54.6
+ test communication (only domain)    46          7          5       15.9       15.8         6.0         8.4         16.9       30.3       30.5      43.5
+
+n_domains among disabled (train): {1.0: 4581, 2.0: 1140, 3.0: 322, 4.0: 127, 5.0: 39, 6.0: 6}
