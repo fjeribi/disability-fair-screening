@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below. Corresponding author: Fathe Jeribi (fjeribi@jazanu.edu.sa)."
+title: "Code for: Fairness-Aware Machine Learning for Equitable Depression and Anxiety Screening Across Disability Domains"
+type: software
+license: MIT
+version: 2.0.0
+date-released: 2026-10-28
+authors:
+  - family-names: Jeribi
+    given-names: Fathe
+    affiliation: "Department of Computer Sciences, College of Engineering and Computer Sciences, Jazan University, Jazan, Saudi Arabia; Engineering and Technology Research Center, Jazan University, Jazan, Saudi Arabia"
+    email: fjeribi@jazanu.edu.sa
+  - family-names: Alam
+    given-names: Shadab
+    affiliation: "Department of Computer Sciences, College of Engineering and Computer Sciences, Jazan University, Jazan, Saudi Arabia"
+keywords:
+  - disability
+  - depression screening
+  - anxiety screening
+  - PHQ-8
+  - GAD-7
+  - algorithmic fairness
+  - measurement invariance
+  - Washington Group
+contact:
+  - family-names: Jeribi
+    given-names: Fathe
+    email: fjeribi@jazanu.edu.sa
+preferred-citation:
+  type: article
+  title: "Fairness-Aware Machine Learning for Equitable Depression and Anxiety Screening Across Disability Domains"
+  authors:
+    - family-names: Jeribi
+      given-names: Fathe
+    - family-names: Alam
+      given-names: Shadab
+  journal: "Journal of Disability Research"
+  year: 2026
+  status: submitted
